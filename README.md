@@ -32,7 +32,7 @@ Slide-ready opaque PNGs are listed below. Most also have a
 | `20260724_s12_n4_paired_seam.png` | S12 | Online N=4 × 6 trials; same-session shadow comparison |
 | `20260724_s14_early_transition_tail.png` | S14 | N=1 mechanism view: an early real contact leaves the outgoing profile endpoint unreached |
 | `20260724_s15_same_interface_different_failure.png` | S15 | Physical distinction between an early observed IC, a missed IC with cadence fallback, and offline timing displacement |
-| `20260724_final_live_rged_algorithm_flowchart.png` | S16 | Current integrated R-GED, cadence fallback, and event-source handling; mixed validation status shown in figure |
+| `20260724_final_live_rged_algorithm_flowchart.png` | Appendix / legacy | Dense integrated R-GED audit figure; superseded in the main deck because it mixes active and unused paths |
 | `20260724_rged_baseline_to_extended_active.png` | S16/S17b | Main-deck comparison of the healthy low-speed baseline and the actually active gait-relative extension; unused candidates omitted |
 | `20260724_s24_timeout_waveform.png` | S24 | Anonymized logged timeout; contact attribution unresolved |
 | `20260724_s27_independent_checks.png` | S27 | Independent count and post-hoc containment checks |
