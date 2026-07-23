@@ -25,7 +25,7 @@ Slide-ready opaque PNGs are listed below. Most also have a
 |------|-------|----------------|
 | `20260724_s03_two_failures.png` | S3 | Conceptual split between force-profile representation and gait-event observation at the shared contact boundary |
 | `20260724_s05_ap_handover_step_cause.png` | S4 | One pre-fix run: 35.0-N representative handover and the same run's event distribution |
-| `20260724_s05_contact_endpoint_pairing.png` | S5 | Schematic endpoint topology with measured 8.28-N offline-fit mismatch at both contacts |
+| `20260724_s05_contact_endpoint_pairing.png` | S5 | Actual logged AP table values and equal-order offline fits showing ±8.28-N Fourier endpoint mismatch and exact contact matching |
 | `20260724_s07_profile_formation.png` | S6 | N=1 offline profile fit |
 | `20260724_s09_two_chart_seam_fit.png` | S8 | N=1 offline representation fit |
 | `20260724_s10_seam_rate_constrained_fit.png` | S9 | N=1 offline constrained fit |
