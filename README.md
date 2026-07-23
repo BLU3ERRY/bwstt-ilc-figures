@@ -43,7 +43,7 @@ Slide-ready opaque PNGs are listed below. Most also have a
 | `20260724_s24_timeout_waveform.png` | S14 | Anonymized logged timeout; contact attribution unresolved |
 | `20260724_s27_independent_checks.png` | S23 | Independent count and post-hoc containment checks |
 | `20260724_s28_guard_relativization.png` | S24 | Guard-design context; event-level correctness not established |
-| `20260724_s32_three_mechanisms_compared.png` | S28 | Conceptual comparison; unconfirmed |
+| `20260724_s32_three_mechanisms_compared.png` | S16 backup | Conceptual comparison; unconfirmed |
 
 For the timeout/independent-check figures and the legacy integrated flowchart, `alpha=0.65` is a
 post-hoc crossing-containment candidate with zero live trials. The new
