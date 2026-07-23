@@ -28,7 +28,7 @@ Slide-ready opaque PNGs are listed below. Most also have a
 | `20260724_s05_contact_endpoint_pairing.png` | S5 | Actual logged AP table values and equal-order offline fits showing ±8.28-N Fourier endpoint mismatch and exact contact matching |
 | `20260724_s07_learning_amplification_coevolution.png` | S6 | Actual pre-change logs: delivery gap, table magnitude, and residual co-evolution |
 | `20260724_bspline_profile_construction.png` | S7 | Actual completed-step error projected through fixed local cubic bases into a same-side profile correction |
-| `20260724_bspline_model_dimension.png` | S8 | Nominal coefficient-space comparison used to choose K=10 |
+| `20260724_bspline_model_dimension.png` | Legacy / unused | Nominal coefficient-space accounting; retained for backup but not used in the main deck |
 | `20260724_bspline_smoothness_selection.png` | S9 | One-trial, n=84 offline fit-rate trade-off used to choose lambda_rel=3 |
 | `20260724_s07_profile_formation.png` | Appendix A7 | N=1 offline profile fit |
 | `20260724_s09_two_chart_seam_fit.png` | Legacy / unused | N=1 offline representation fit |
