@@ -34,7 +34,8 @@ Slide-ready opaque PNGs are listed below. Most also have a
 | `20260724_s09_two_chart_seam_fit.png` | Legacy / unused | N=1 offline representation fit |
 | `20260724_s10_seam_rate_constrained_fit.png` | Legacy / unused | N=1 offline constrained fit |
 | `20260724_ilc_profile_generation_pipeline.png` | Appendix A8 | Current-code ILC learning and 500-Hz application paths |
-| `20260724_s12_n4_paired_seam.png` | S10 | Online N=4 × 6 trials; same-session shadow comparison |
+| `20260724_s10_n4_ilc_ap_vertical.png` | S10 | Online N=4 × 6 trials; AP same-session shadow benchmark plus vertical-force tracking in the same 24 ILC-enabled trials |
+| `20260724_s12_n4_paired_seam.png` | S10 backup | AP-only same-session shadow comparison |
 | `20260724_s14_early_transition_tail.png` | Legacy / unused | Conceptual mechanism schematic annotated with an N=1 logged-data summary; removed from the main deck because the curves are not an actual-data trace |
 | `20260724_s15_same_interface_different_failure.png` | S12 | Physical distinction between an early observed IC, a missed IC with cadence fallback, and offline timing displacement |
 | `20260724_final_live_rged_algorithm_flowchart.png` | Appendix / legacy | Dense integrated R-GED audit figure; superseded in the main deck because it mixes active and unused paths |
