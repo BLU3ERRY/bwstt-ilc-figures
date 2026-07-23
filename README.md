@@ -18,8 +18,8 @@ No subject-identifying information is included (cohort means + anonymous individ
 
 ## 2026-07-24 lab meeting
 
-Slide-ready opaque PNGs are listed below. Each also has a
-`_transparent.png` sibling for presentation editing.
+Slide-ready opaque PNGs are listed below. Most also have a
+`_transparent.png` sibling; method diagrams include editable SVG where noted.
 
 | File | Slide | Evidence scope |
 |------|-------|----------------|
@@ -33,13 +33,16 @@ Slide-ready opaque PNGs are listed below. Each also has a
 | `20260724_s14_early_transition_tail.png` | S14 | N=1 mechanism view: an early real contact leaves the outgoing profile endpoint unreached |
 | `20260724_s15_same_interface_different_failure.png` | S15 | Physical distinction between an early observed IC, a missed IC with cadence fallback, and offline timing displacement |
 | `20260724_final_live_rged_algorithm_flowchart.png` | S16 | Current integrated R-GED, cadence fallback, and event-source handling; mixed validation status shown in figure |
+| `20260724_rged_baseline_to_extended_active.png` | S16/S17b | Main-deck comparison of the healthy low-speed baseline and the actually active gait-relative extension; unused candidates omitted |
 | `20260724_s24_timeout_waveform.png` | S24 | Anonymized logged timeout; contact attribution unresolved |
 | `20260724_s27_independent_checks.png` | S27 | Independent count and post-hoc containment checks |
 | `20260724_s28_guard_relativization.png` | S28 | Guard-design context; event-level correctness not established |
 | `20260724_s32_three_mechanisms_compared.png` | S32 | Conceptual comparison; unconfirmed |
 
-For S24/S27 and the S16 flowchart, `alpha=0.65` is a post-hoc
-crossing-containment candidate with zero live trials. Observer presses are
-count-only and are not contact-timing or event-level ground truth.
+For S24/S27 and the legacy integrated S16 flowchart, `alpha=0.65` is a
+post-hoc crossing-containment candidate with zero live trials. The new
+baseline-to-active comparison intentionally omits exact tuning values.
+Observer presses are count-only and are not contact-timing or event-level
+ground truth.
 
-The S11, S14, S15, and S16 method/concept diagrams also include editable SVG versions.
+The S11, S14, S15, and S16/S17b method/concept diagrams also include editable SVG versions.
