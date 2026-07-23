@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-07-24T01:59:31.867004</dc:date>
+    <dc:date>2026-07-24T03:11:41.091808</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -40,7 +40,7 @@ Q 20.826 55.3788 20.826 64.2492
 L 20.826 293.7708
 Q 20.826 302.6412 29.754 302.6412
 z
-" clip-path="url(#pd2ddaf0fec)" style="fill: #fbfcfe; stroke: #d8dee8; stroke-width: 1.2; stroke-linejoin: miter"/>
+" clip-path="url(#pc397cfe946)" style="fill: #fbfcfe; stroke: #d8dee8; stroke-width: 1.2; stroke-linejoin: miter"/>
    </g>
    <g id="patch_3">
     <path d="M 29.754 537.1524
@@ -53,7 +53,7 @@ Q 20.826 313.1748 20.826 322.0452
 L 20.826 528.282
 Q 20.826 537.1524 29.754 537.1524
 z
-" clip-path="url(#pd2ddaf0fec)" style="fill: #fbfcfe; stroke: #d8dee8; stroke-width: 1.2; stroke-linejoin: miter"/>
+" clip-path="url(#pc397cfe946)" style="fill: #fbfcfe; stroke: #d8dee8; stroke-width: 1.2; stroke-linejoin: miter"/>
    </g>
    <g id="patch_4">
     <path d="M 331.074 537.1524
@@ -66,7 +66,7 @@ Q 322.146 313.1748 322.146 322.0452
 L 322.146 528.282
 Q 322.146 537.1524 331.074 537.1524
 z
-" clip-path="url(#pd2ddaf0fec)" style="fill: #fbfcfe; stroke: #d8dee8; stroke-width: 1.2; stroke-linejoin: miter"/>
+" clip-path="url(#pc397cfe946)" style="fill: #fbfcfe; stroke: #d8dee8; stroke-width: 1.2; stroke-linejoin: miter"/>
    </g>
    <g id="patch_5">
     <path d="M 36.171 94.1868
@@ -79,7 +79,7 @@ Q 34.218 73.674 34.218 75.6144
 L 34.218 92.2464
 Q 34.218 94.1868 36.171 94.1868
 z
-" clip-path="url(#pd2ddaf0fec)" style="fill: #0b6fa4"/>
+" clip-path="url(#pc397cfe946)" style="fill: #0b6fa4"/>
    </g>
    <g id="patch_6">
     <path d="M 112.105182 149.0724
@@ -192,7 +192,7 @@ Q 34.218 331.47 34.218 333.4104
 L 34.218 350.0424
 Q 34.218 351.9828 36.171 351.9828
 z
-" clip-path="url(#pd2ddaf0fec)" style="fill: #b86a00"/>
+" clip-path="url(#pc397cfe946)" style="fill: #b86a00"/>
    </g>
    <g id="patch_17">
     <path d="M 169.254 398.886448
@@ -235,7 +235,7 @@ Q 335.538 331.47 335.538 333.4104
 L 335.538 350.0424
 Q 335.538 351.9828 337.491 351.9828
 z
-" clip-path="url(#pd2ddaf0fec)" style="fill: #16845b"/>
+" clip-path="url(#pc397cfe946)" style="fill: #16845b"/>
    </g>
    <g id="patch_21">
     <path d="M 929.808 185.44375
@@ -311,7 +311,7 @@ z
     <text style="font-weight: 700; font-size: 21.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172033" x="30.87" y="29.918201" transform="rotate(-0 30.87 29.918201)">Current R-GED pipeline: detector, cadence fallback, and ILC provenance</text>
    </g>
    <g id="text_2">
-    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #586174" x="31.986" y="45.909949" transform="rotate(-0 31.986 45.909949)">Current LLC implementation · bilateral per-side processing · 500 Hz control · active path plus inactive-feature status</text>
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #586174" x="31.986" y="45.909949" transform="rotate(-0 31.986 45.909949)">Current LLC implementation · bilateral per-side processing · nominal 500 Hz force-control consumption · shank IMU updates ~125 Hz</text>
    </g>
    <g id="text_3">
     <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172033" x="46.494" y="83.998856" transform="rotate(-0 46.494 83.998856)">A · Per-side shank detector</text>
@@ -330,7 +330,7 @@ Q 37.566 122.4612 37.566 129.114
 L 37.566 169.0308
 Q 37.566 175.6836 44.262 175.6836
 z
-" clip-path="url(#pd2ddaf0fec)" style="fill: #ffffff; stroke: #475569; stroke-width: 1.6; stroke-linejoin: miter"/>
+" clip-path="url(#pc397cfe946)" style="fill: #ffffff; stroke: #475569; stroke-width: 1.6; stroke-linejoin: miter"/>
    </g>
    <g id="patch_30">
     <path d="M 126.288 185.6628
@@ -343,7 +343,7 @@ Q 119.592 112.482 119.592 119.1348
 L 119.592 179.01
 Q 119.592 185.6628 126.288 185.6628
 z
-" clip-path="url(#pd2ddaf0fec)" style="fill: #eaf5fb; stroke: #0b6fa4; stroke-width: 1.6; stroke-linejoin: miter"/>
+" clip-path="url(#pc397cfe946)" style="fill: #eaf5fb; stroke: #0b6fa4; stroke-width: 1.6; stroke-linejoin: miter"/>
    </g>
    <g id="patch_31">
     <path d="M 231.192 198.9684
@@ -356,7 +356,7 @@ Q 224.496 99.7308 224.496 106.3836
 L 224.496 192.3156
 Q 224.496 198.9684 231.192 198.9684
 z
-" clip-path="url(#pd2ddaf0fec)" style="fill: #e6f7f7; stroke: #0b6fa4; stroke-width: 1.6; stroke-linejoin: miter"/>
+" clip-path="url(#pc397cfe946)" style="fill: #e6f7f7; stroke: #0b6fa4; stroke-width: 1.6; stroke-linejoin: miter"/>
    </g>
    <g id="patch_32">
     <path d="M 494.568 196.7508
@@ -369,7 +369,7 @@ Q 487.872 100.8396 487.872 107.4924
 L 487.872 190.098
 Q 487.872 196.7508 494.568 196.7508
 z
-" clip-path="url(#pd2ddaf0fec)" style="fill: #eaf5fb; stroke: #0b6fa4; stroke-width: 1.6; stroke-linejoin: miter"/>
+" clip-path="url(#pc397cfe946)" style="fill: #eaf5fb; stroke: #0b6fa4; stroke-width: 1.6; stroke-linejoin: miter"/>
    </g>
    <g id="patch_33">
     <path d="M 503.496 218.3724
@@ -382,7 +382,7 @@ Q 499.59 192.87 499.59 196.7508
 L 499.59 214.4916
 Q 499.59 218.3724 503.496 218.3724
 z
-" clip-path="url(#pd2ddaf0fec)" style="fill: #f4f6f8; stroke: #98a2b3; stroke-linejoin: miter"/>
+" clip-path="url(#pc397cfe946)" style="fill: #f4f6f8; stroke: #98a2b3; stroke-linejoin: miter"/>
    </g>
    <g id="patch_34">
     <path d="M 577.71 218.3724
@@ -395,7 +395,7 @@ Q 573.804 192.87 573.804 196.7508
 L 573.804 214.4916
 Q 573.804 218.3724 577.71 218.3724
 z
-" clip-path="url(#pd2ddaf0fec)" style="fill: #fff5dd; stroke: #b86a00; stroke-linejoin: miter"/>
+" clip-path="url(#pc397cfe946)" style="fill: #fff5dd; stroke: #b86a00; stroke-linejoin: miter"/>
    </g>
    <g id="patch_35">
     <path d="M 772.452 192.87
@@ -408,7 +408,7 @@ Q 765.756 105.2748 765.756 111.9276
 L 765.756 186.2172
 Q 765.756 192.87 772.452 192.87
 z
-" clip-path="url(#pd2ddaf0fec)" style="fill: #f2eefb; stroke: #6d4ab1; stroke-width: 1.6; stroke-linejoin: miter"/>
+" clip-path="url(#pc397cfe946)" style="fill: #f2eefb; stroke: #6d4ab1; stroke-width: 1.6; stroke-linejoin: miter"/>
    </g>
    <g id="patch_36">
     <path d="M 890.748 187.8804
@@ -421,7 +421,7 @@ Q 884.052 111.3732 884.052 118.026
 L 884.052 181.2276
 Q 884.052 187.8804 890.748 187.8804
 z
-" clip-path="url(#pd2ddaf0fec)" style="fill: #eaf8f1; stroke: #16845b; stroke-width: 1.6; stroke-linejoin: miter"/>
+" clip-path="url(#pc397cfe946)" style="fill: #eaf8f1; stroke: #16845b; stroke-width: 1.6; stroke-linejoin: miter"/>
    </g>
    <g id="patch_37">
     <path d="M 661.968 281.0196
@@ -434,7 +434,7 @@ Q 655.272 228.906 655.272 235.5588
 L 655.272 274.3668
 Q 655.272 281.0196 661.968 281.0196
 z
-" clip-path="url(#pd2ddaf0fec)" style="fill: #fff0ee; stroke: #b3261e; stroke-width: 1.6; stroke-linejoin: miter"/>
+" clip-path="url(#pc397cfe946)" style="fill: #fff0ee; stroke: #b3261e; stroke-width: 1.6; stroke-linejoin: miter"/>
    </g>
    <g id="patch_38">
     <path d="M 44.262 292.1076
@@ -447,7 +447,7 @@ Q 39.798 228.906 39.798 233.3412
 L 39.798 287.6724
 Q 39.798 292.1076 44.262 292.1076
 z
-" clip-path="url(#pd2ddaf0fec)" style="fill: #f4f6f8; stroke: #8b95a5; stroke-width: 1.1; stroke-linejoin: miter"/>
+" clip-path="url(#pc397cfe946)" style="fill: #f4f6f8; stroke: #8b95a5; stroke-width: 1.1; stroke-linejoin: miter"/>
    </g>
    <g id="text_5">
     <text style="font-style: italic; font-size: 7.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #586174" x="496.242" y="285.135919" transform="rotate(-0 496.242 285.135919)">pre-ZC re-rise above θ → WAIT_MSW</text>
@@ -463,7 +463,7 @@ Q 833.832 227.7972 833.832 234.45
 L 833.832 272.1492
 Q 833.832 278.802 840.528 278.802
 z
-" clip-path="url(#pd2ddaf0fec)" style="fill: #f4f6f8; stroke: #8b95a5; stroke-width: 1.6; stroke-linejoin: miter"/>
+" clip-path="url(#pc397cfe946)" style="fill: #f4f6f8; stroke: #8b95a5; stroke-width: 1.6; stroke-linejoin: miter"/>
    </g>
    <g id="text_6">
     <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172033" x="46.494" y="341.794856" transform="rotate(-0 46.494 341.794856)">B · Application fallback</text>
@@ -479,7 +479,7 @@ Q 39.798 352.5372 39.798 359.19
 L 39.798 394.6716
 Q 39.798 401.3244 46.494 401.3244
 z
-" clip-path="url(#pd2ddaf0fec)" style="fill: #fff5dd; stroke: #b86a00; stroke-width: 1.6; stroke-linejoin: miter"/>
+" clip-path="url(#pc397cfe946)" style="fill: #fff5dd; stroke: #b86a00; stroke-width: 1.6; stroke-linejoin: miter"/>
    </g>
    <g id="patch_41">
     <path d="M 47.052 520.5204
@@ -492,7 +492,7 @@ Q 40.356 462.8628 40.356 469.5156
 L 40.356 513.8676
 Q 40.356 520.5204 47.052 520.5204
 z
-" clip-path="url(#pd2ddaf0fec)" style="fill: #fff5dd; stroke: #b86a00; stroke-width: 1.6; stroke-linejoin: miter"/>
+" clip-path="url(#pc397cfe946)" style="fill: #fff5dd; stroke: #b86a00; stroke-width: 1.6; stroke-linejoin: miter"/>
    </g>
    <g id="text_7">
     <text style="font-style: italic; font-size: 7.25px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #586174" x="169.254" y="526.839184" transform="rotate(-0 169.254 526.839184)">decision may be delayed; boundary timestamp remains cadence-based</text>
@@ -531,7 +531,7 @@ L 474.48 149.6268
 L 427.05 187.0488
 L 379.62 149.6268
 z
-" clip-path="url(#pd2ddaf0fec)" style="fill: #ffffff; stroke: #075985; stroke-width: 1.7"/>
+" clip-path="url(#pc397cfe946)" style="fill: #ffffff; stroke: #075985; stroke-width: 1.7"/>
    </g>
    <g id="text_15">
     <text style="font-weight: 600; font-size: 8.55px; font-family: 'DejaVu Sans'; fill: #172033" transform="translate(509.004949 135.645567)">WAIT_IC · explicit ZC state</text>
@@ -553,7 +553,7 @@ L 748.458 149.0724
 L 704.934 186.2172
 L 661.41 149.0724
 z
-" clip-path="url(#pd2ddaf0fec)" style="fill: #ffffff; stroke: #075985; stroke-width: 1.7"/>
+" clip-path="url(#pc397cfe946)" style="fill: #ffffff; stroke: #075985; stroke-width: 1.7"/>
    </g>
    <g id="text_18">
     <text style="font-weight: 600; font-size: 8.45px; font-family: 'DejaVu Sans'; fill: #172033" transform="translate(791.327938 137.012666)">ZC observed</text>
@@ -590,7 +590,7 @@ L 264.672 435.6972
 L 169.254 459.2592
 L 73.836 435.6972
 z
-" clip-path="url(#pd2ddaf0fec)" style="fill: #ffffff; stroke: #b86a00; stroke-width: 1.7"/>
+" clip-path="url(#pc397cfe946)" style="fill: #ffffff; stroke: #b86a00; stroke-width: 1.7"/>
    </g>
    <g id="text_24">
     <text style="font-weight: 700; font-size: 7.9px; font-family: 'DejaVu Sans'; fill: #172033" transform="translate(68.862867 484.360647)">SOURCE 2 · PREDICTED application boundary</text>
@@ -603,7 +603,7 @@ L 467.226 388.5732
 L 406.404 415.7388
 L 345.582 388.5732
 z
-" clip-path="url(#pd2ddaf0fec)" style="fill: #ffffff; stroke: #16845b; stroke-width: 1.7"/>
+" clip-path="url(#pc397cfe946)" style="fill: #ffffff; stroke: #16845b; stroke-width: 1.7"/>
    </g>
    <g id="patch_46">
     <path d="M 406.404 437.9148
@@ -611,7 +611,7 @@ L 467.226 465.0804
 L 406.404 492.246
 L 345.582 465.0804
 z
-" clip-path="url(#pd2ddaf0fec)" style="fill: #ffffff; stroke: #6d4ab1; stroke-width: 1.7"/>
+" clip-path="url(#pc397cfe946)" style="fill: #ffffff; stroke: #6d4ab1; stroke-width: 1.7"/>
    </g>
    <g id="patch_47">
     <path d="M 491.778 420.7284
@@ -624,7 +624,7 @@ Q 485.64 345.33 485.64 351.4284
 L 485.64 414.63
 Q 485.64 420.7284 491.778 420.7284
 z
-" clip-path="url(#pd2ddaf0fec)" style="fill: #eaf8f1; stroke: #16845b; stroke-width: 1.7; stroke-linejoin: miter"/>
+" clip-path="url(#pc397cfe946)" style="fill: #eaf8f1; stroke: #16845b; stroke-width: 1.7; stroke-linejoin: miter"/>
    </g>
    <g id="patch_48">
     <path d="M 491.778 513.8676
@@ -637,7 +637,7 @@ Q 485.64 438.4692 485.64 444.5676
 L 485.64 507.7692
 Q 485.64 513.8676 491.778 513.8676
 z
-" clip-path="url(#pd2ddaf0fec)" style="fill: #f2eefb; stroke: #6d4ab1; stroke-width: 1.7; stroke-linejoin: miter"/>
+" clip-path="url(#pc397cfe946)" style="fill: #f2eefb; stroke: #6d4ab1; stroke-width: 1.7; stroke-linejoin: miter"/>
    </g>
    <g id="patch_49">
     <path d="M 752.922 513.8676
@@ -650,7 +650,7 @@ Q 746.784 438.4692 746.784 444.5676
 L 746.784 507.7692
 Q 746.784 513.8676 752.922 513.8676
 z
-" clip-path="url(#pd2ddaf0fec)" style="fill: #fff0ee; stroke: #b3261e; stroke-width: 1.7; stroke-linejoin: miter"/>
+" clip-path="url(#pc397cfe946)" style="fill: #fff0ee; stroke: #b3261e; stroke-width: 1.7; stroke-linejoin: miter"/>
    </g>
    <g id="text_25">
     <text style="font-weight: 600; font-size: 8.8px; font-family: 'DejaVu Sans'; fill: #172033" transform="translate(393.7255 141.93505)">positive peak</text>
@@ -670,9 +670,9 @@ z
     <text style="font-weight: 600; font-size: 8.15px; font-family: 'DejaVu Sans'; fill: #172033" transform="translate(361.097641 396.297872)">active for this side?</text>
    </g>
    <g id="text_29">
-    <text style="font-weight: 600; font-size: 7.35px; font-family: 'DejaVu Sans'; fill: #172033" transform="translate(356.805281 458.569908)">|treal − tpred| ≤ Wcorr?</text>
-    <text style="font-weight: 600; font-size: 7.35px; font-family: 'DejaVu Sans'; fill: #172033" transform="translate(356.614066 467.108541)">Wcorr=clamp(.30 Tstep,</text>
-    <text style="font-weight: 600; font-size: 7.35px; font-family: 'DejaVu Sans'; fill: #172033" transform="translate(379.411125 475.799341)">200, 500 ms)</text>
+    <text style="font-weight: 600; font-size: 7.35px; font-family: 'DejaVu Sans'; fill: #172033" transform="translate(354.315469 458.62733)">control-arrival sync error</text>
+    <text style="font-weight: 600; font-size: 7.35px; font-family: 'DejaVu Sans'; fill: #172033" transform="translate(354.490031 467.07983)">from predicted boundary</text>
+    <text style="font-weight: 600; font-size: 7.35px; font-family: 'DejaVu Sans'; fill: #172033" transform="translate(387.531727 476.208185)">≤ Wcorr?</text>
    </g>
    <g id="text_30">
     <text style="font-weight: 700; font-size: 9.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #16845b" x="499.59" y="368.397444" transform="rotate(-0 499.59 368.397444)">SOURCE 1</text>
@@ -708,7 +708,7 @@ z
     <text style="font-size: 8.45px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172033" x="760.734" y="485.91548" transform="rotate(-0 760.734 485.91548)">APP   no 2nd reset/switch; update timing</text>
    </g>
    <g id="text_41">
-    <text style="font-size: 8.45px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172033" x="760.734" y="505.87388" transform="rotate(-0 760.734 505.87388)">LRN   skip: sync error exceeds tolerance</text>
+    <text style="font-size: 8.45px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172033" x="760.734" y="505.87388" transform="rotate(-0 760.734 505.87388)">LRN   skip: control-arrival sync error exceeds tolerance</text>
    </g>
    <g id="text_42">
     <text style="font-weight: 600; font-size: 7.8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #075985" x="483.408" y="139.456172" transform="rotate(-0 483.408 139.456172)">YES</text>
@@ -750,7 +750,7 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="pd2ddaf0fec">
+  <clipPath id="pc397cfe946">
    <rect x="5.76" y="5.76" width="1004.4" height="561.33"/>
   </clipPath>
  </defs>
