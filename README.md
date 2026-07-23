@@ -1,9 +1,8 @@
-# BWSTT ILC — Report Figures
+# BWSTT Control — Report and Lab-Meeting Figures
 
-Result figures for the cable-driven BWSTT + phase-indexed Fourier ILC technical report
-(N=4 healthy cohort, anonymized S1–S4). Hosted here so the report markdown can render them
-inline via raw URLs. No subject-identifying information is included (cohort means + anonymous
-individual points only).
+Figures for the cable-driven BWSTT controller, including phase-indexed ILC and R-GED.
+They are hosted here so report and presentation Markdown can render commit-pinned raw URLs.
+No subject-identifying information is included (cohort means + anonymous individual points only).
 
 | File | Section | Content |
 |------|---------|---------|
@@ -28,12 +27,16 @@ Slide-ready opaque PNGs are listed below. Each also has a
 | `20260724_s07_profile_formation.png` | S7 | N=1 offline profile fit |
 | `20260724_s09_two_chart_seam_fit.png` | S9 | N=1 offline representation fit |
 | `20260724_s10_seam_rate_constrained_fit.png` | S10 | N=1 offline constrained fit |
+| `20260724_ilc_profile_generation_pipeline.png` | S11 | Current-code ILC learning and 500-Hz application paths |
 | `20260724_s12_n4_paired_seam.png` | S12 | Online N=4 × 6 trials; same-session shadow comparison |
+| `20260724_final_live_rged_algorithm_flowchart.png` | S16 | Current integrated R-GED, cadence fallback, and event-source handling; mixed validation status shown in figure |
 | `20260724_s24_timeout_waveform.png` | S24 | Anonymized logged timeout; contact attribution unresolved |
 | `20260724_s27_independent_checks.png` | S27 | Independent count and post-hoc containment checks |
 | `20260724_s28_guard_relativization.png` | S28 | Guard-design context; event-level correctness not established |
 | `20260724_s32_three_mechanisms_compared.png` | S32 | Conceptual comparison; unconfirmed |
 
-For S24/S27, `alpha=0.65` is a post-hoc crossing-containment screen with
-zero live trials. Observer presses are count-only and are not contact-timing
-or event-level ground truth.
+For S24/S27 and the S16 flowchart, `alpha=0.65` is a post-hoc
+crossing-containment candidate with zero live trials. Observer presses are
+count-only and are not contact-timing or event-level ground truth.
+
+The S11 and S16 method diagrams also include editable SVG versions.
