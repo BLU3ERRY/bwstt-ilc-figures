@@ -24,20 +24,21 @@ Slide-ready opaque PNGs are listed below. Most also have a
 | File | Slide | Evidence scope |
 |------|-------|----------------|
 | `20260724_s03_two_failures.png` | S3 | Conceptual split between force-profile representation and gait-event observation at the shared contact boundary |
-| `20260724_s05_ap_handover_step_cause.png` | S5 | Representative N=1 mimic observation |
-| `20260724_s07_profile_formation.png` | S7 | N=1 offline profile fit |
-| `20260724_s09_two_chart_seam_fit.png` | S9 | N=1 offline representation fit |
-| `20260724_s10_seam_rate_constrained_fit.png` | S10 | N=1 offline constrained fit |
-| `20260724_ilc_profile_generation_pipeline.png` | S11 | Current-code ILC learning and 500-Hz application paths |
-| `20260724_s12_n4_paired_seam.png` | S12 | Online N=4 × 6 trials; same-session shadow comparison |
-| `20260724_s14_early_transition_tail.png` | S14 | N=1 mechanism view: an early real contact leaves the outgoing profile endpoint unreached |
-| `20260724_s15_same_interface_different_failure.png` | S15 | Physical distinction between an early observed IC, a missed IC with cadence fallback, and offline timing displacement |
+| `20260724_s05_ap_handover_step_cause.png` | S4 | One pre-fix run: 35.0-N representative handover and the same run's event distribution |
+| `20260724_s05_contact_endpoint_pairing.png` | S5 | Schematic endpoint topology with measured 8.28-N offline-fit mismatch at both contacts |
+| `20260724_s07_profile_formation.png` | S6 | N=1 offline profile fit |
+| `20260724_s09_two_chart_seam_fit.png` | S8 | N=1 offline representation fit |
+| `20260724_s10_seam_rate_constrained_fit.png` | S9 | N=1 offline constrained fit |
+| `20260724_ilc_profile_generation_pipeline.png` | S10 | Current-code ILC learning and 500-Hz application paths |
+| `20260724_s12_n4_paired_seam.png` | S11 | Online N=4 × 6 trials; same-session shadow comparison |
+| `20260724_s14_early_transition_tail.png` | S13 | N=1 mechanism view: an early real contact leaves the outgoing profile endpoint unreached |
+| `20260724_s15_same_interface_different_failure.png` | S14 | Physical distinction between an early observed IC, a missed IC with cadence fallback, and offline timing displacement |
 | `20260724_final_live_rged_algorithm_flowchart.png` | Appendix / legacy | Dense integrated R-GED audit figure; superseded in the main deck because it mixes active and unused paths |
-| `20260724_rged_baseline_to_extended_active.png` | S16/S17b | Main-deck comparison of the healthy low-speed baseline and the actually active gait-relative extension; unused candidates omitted |
-| `20260724_s24_timeout_waveform.png` | S24 | Anonymized logged timeout; contact attribution unresolved |
-| `20260724_s27_independent_checks.png` | S27 | Independent count and post-hoc containment checks |
-| `20260724_s28_guard_relativization.png` | S28 | Guard-design context; event-level correctness not established |
-| `20260724_s32_three_mechanisms_compared.png` | S32 | Conceptual comparison; unconfirmed |
+| `20260724_rged_baseline_to_extended_active.png` | S15/S17 | Main-deck comparison of the healthy low-speed baseline and the actually active gait-relative extension; unused candidates omitted |
+| `20260724_s24_timeout_waveform.png` | S22 | Anonymized logged timeout; contact attribution unresolved |
+| `20260724_s27_independent_checks.png` | S25 | Independent count and post-hoc containment checks |
+| `20260724_s28_guard_relativization.png` | S26 | Guard-design context; event-level correctness not established |
+| `20260724_s32_three_mechanisms_compared.png` | S30 | Conceptual comparison; unconfirmed |
 
 For S24/S27 and the legacy integrated S16 flowchart, `alpha=0.65` is a
 post-hoc crossing-containment candidate with zero live trials. The new
