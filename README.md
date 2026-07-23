@@ -39,6 +39,7 @@ Slide-ready opaque PNGs are listed below. Most also have a
 | `20260724_s15_same_interface_different_failure.png` | S12 | Physical distinction between an early observed IC, a missed IC with cadence fallback, and offline timing displacement |
 | `20260724_final_live_rged_algorithm_flowchart.png` | Appendix / legacy | Dense integrated R-GED audit figure; superseded in the main deck because it mixes active and unused paths |
 | `20260724_rged_baseline_to_extended_active.png` | S13/S15 | Main-deck comparison of the healthy low-speed baseline and the actually active gait-relative extension; unused candidates omitted |
+| `20260724_rged_n4_application_fallback.png` | S13 | Actual N=4 × 6-trial cadence-fallback burden among bilateral application transitions; source 2 / (source 1 + source 2), with source 3/4 real-sync measurements excluded |
 | `20260724_s24_timeout_waveform.png` | S20 | Anonymized logged timeout; contact attribution unresolved |
 | `20260724_s27_independent_checks.png` | S23 | Independent count and post-hoc containment checks |
 | `20260724_s28_guard_relativization.png` | S24 | Guard-design context; event-level correctness not established |
