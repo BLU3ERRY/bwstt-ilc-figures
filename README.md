@@ -23,6 +23,7 @@ Slide-ready opaque PNGs are listed below. Each also has a
 
 | File | Slide | Evidence scope |
 |------|-------|----------------|
+| `20260724_s03_two_failures.png` | S3 | Conceptual split between force-profile representation and gait-event observation at the shared contact boundary |
 | `20260724_s05_ap_handover_step_cause.png` | S5 | Representative N=1 mimic observation |
 | `20260724_s07_profile_formation.png` | S7 | N=1 offline profile fit |
 | `20260724_s09_two_chart_seam_fit.png` | S9 | N=1 offline representation fit |
