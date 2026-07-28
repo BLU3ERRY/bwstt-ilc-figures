@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  width="1600"
+  height="900"
+  viewBox="0 0 1600 900"
+  role="img"
+  aria-labelledby="title description">
+  <title id="title">Large remaining jumps occurred before the outgoing profile reached its endpoint</title>
+  <desc id="description">
+    A real contact occurs while the outgoing chart phase is below one. The
+    outgoing table value therefore stops below its endpoint, while the incoming
+    chart starts at the shared seam value c A. The vertical difference is the
+    unfinished outgoing profile.
+  </desc>
+
+  <defs>
+    <marker id="arrow-blue" markerWidth="11" markerHeight="11" refX="9" refY="5.5" orient="auto">
+      <path d="M 0 0 L 11 5.5 L 0 11 z" fill="#0b78b5"/>
+    </marker>
+    <marker id="arrow-orange-up" markerWidth="10" markerHeight="10" refX="5" refY="1" orient="auto">
+      <path d="M 0 10 L 5 0 L 10 10 z" fill="#d55e00"/>
+    </marker>
+    <marker id="arrow-orange-down" markerWidth="10" markerHeight="10" refX="5" refY="9" orient="auto">
+      <path d="M 0 0 L 5 10 L 10 0 z" fill="#d55e00"/>
+    </marker>
+    <style>
+      text {
+        font-family: "DejaVu Sans", Arial, sans-serif;
+        fill: #172033;
+      }
+      .title { font-size: 37px; font-weight: 700; }
+      .subtitle { font-size: 22px; fill: #657083; }
+      .section { font-size: 20px; font-weight: 700; letter-spacing: 0.5px; }
+      .label { font-size: 20px; font-weight: 600; }
+      .small { font-size: 17px; fill: #657083; }
+      .formula { font-size: 23px; font-weight: 700; }
+      .axis { stroke: #738092; stroke-width: 2.5; }
+      .blue { fill: #0b78b5; }
+      .green { fill: #009e73; }
+      .orange { fill: #d55e00; }
+    </style>
+  </defs>
+
+  <!-- Intentionally transparent. The opaque PNG is flattened onto white. -->
+  <text class="title" x="800" y="65" text-anchor="middle">
+    Large remaining jumps occurred before the outgoing profile reached its endpoint
+  </text>
+  <text class="subtitle" x="800" y="105" text-anchor="middle">
+    Value continuity is enforced at φ = 1; real contact can end the chart earlier
+  </text>
+
+  <rect x="92" y="142" width="1416" height="568" rx="24"
+        fill="#f7fafc" stroke="#cad5df" stroke-width="2.5"/>
+
+  <rect x="504" y="166" width="592" height="57" rx="28"
+        fill="#e9f3f9" stroke="#9fc7de" stroke-width="2"/>
+  <text class="formula" x="800" y="203" text-anchor="middle">
+    Matched value at φ = 1: u_out(1) = u_in(0) = c_A
+  </text>
+
+  <!-- Main application-time plot -->
+  <line class="axis" x1="180" y1="622" x2="1420" y2="622"/>
+  <line class="axis" x1="180" y1="622" x2="180" y2="260"/>
+  <text class="small" x="800" y="683" text-anchor="middle">controller application time</text>
+  <text class="small" x="125" y="450" text-anchor="middle"
+        transform="rotate(-90 125 450)">feedforward table value</text>
+
+  <!-- Contact instant -->
+  <line x1="866" y1="248" x2="866" y2="622"
+        stroke="#172033" stroke-width="3" stroke-dasharray="10 9"/>
+  <rect x="745" y="232" width="242" height="68" rx="14" fill="#172033"/>
+  <text x="866" y="257" text-anchor="middle" font-size="17" font-weight="700" fill="#ffffff">
+    REAL CONTACT
+  </text>
+  <text x="866" y="282" text-anchor="middle" font-size="17" font-weight="600" fill="#dce8f1">
+    φ_out &lt; 1 / φ_in = 0
+  </text>
+
+  <!-- Outgoing chart actually traversed -->
+  <path d="M 214 552
+           C 350 542, 487 530, 602 519
+           C 706 509, 793 498, 866 480"
+        fill="none" stroke="#0b78b5" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="866" cy="480" r="10" fill="#0b78b5" stroke="#ffffff" stroke-width="4"/>
+  <text class="section blue" x="270" y="376">OUTGOING CHART</text>
+  <text class="small" x="270" y="404">traversed only up to real contact</text>
+  <text class="formula blue" x="822" y="515" text-anchor="end">
+    u_out(φ_out)
+  </text>
+
+  <!-- The outgoing chart tail that was learned but not traversed -->
+  <path d="M 866 480
+           C 910 456, 948 414, 974 373
+           C 994 343, 1016 332, 1040 330"
+        fill="none" stroke="#0b78b5" stroke-width="5"
+        stroke-dasharray="11 10" stroke-linecap="round"
+        marker-end="url(#arrow-blue)" opacity="0.74"/>
+  <circle cx="1040" cy="330" r="9" fill="#ffffff" stroke="#0b78b5" stroke-width="4" opacity="0.9"/>
+  <text class="small blue" x="1061" y="414">
+    outgoing tail to φ = 1
+  </text>
+  <text class="small blue" x="1061" y="438">(not traversed)</text>
+
+  <!-- Incoming chart begins at c_A at the same real-contact instant -->
+  <path d="M 866 330
+           C 972 335, 1076 349, 1176 365
+           C 1265 380, 1345 388, 1403 384"
+        fill="none" stroke="#009e73" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="866" cy="330" r="10" fill="#009e73" stroke="#ffffff" stroke-width="4"/>
+  <text class="section green" x="1160" y="281">INCOMING CHART</text>
+  <text class="small" x="1160" y="309">starts exactly at the matched contact value</text>
+  <text class="formula green" x="824" y="338" text-anchor="end">
+    c_A
+  </text>
+
+  <!-- Vertical mismatch at the real contact -->
+  <line x1="927" y1="344" x2="927" y2="466"
+        stroke="#d55e00" stroke-width="5"
+        marker-start="url(#arrow-orange-up)"
+        marker-end="url(#arrow-orange-down)"/>
+  <line x1="886" y1="330" x2="951" y2="330" stroke="#d55e00" stroke-width="3"/>
+  <line x1="886" y1="480" x2="951" y2="480" stroke="#d55e00" stroke-width="3"/>
+  <rect x="1032" y="454" width="390" height="122" rx="17"
+        fill="#fff4eb" stroke="#e9a375" stroke-width="2"/>
+  <text class="formula orange" x="1227" y="489" text-anchor="middle">
+    c_A - u_out(φ_out)
+  </text>
+  <text x="1227" y="522" text-anchor="middle" font-size="21" font-weight="700" fill="#d55e00">
+    unfinished outgoing profile
+  </text>
+  <text class="small" x="1227" y="551" text-anchor="middle">
+    appears as the table-level handover jump
+  </text>
+
+  <rect x="202" y="578" width="1097" height="43" rx="21" fill="#edf2f6"/>
+  <text x="750" y="606" text-anchor="middle" font-size="18" font-weight="600" fill="#4e5a6a">
+    The event does not break the endpoint match — it switches profiles before that endpoint is reached.
+  </text>
+
+  <!-- Evidence strip -->
+  <rect x="92" y="742" width="1416" height="111" rx="22" fill="#1c5578"/>
+  <text x="145" y="782" font-size="18" font-weight="700" fill="#cfe7f5">
+    JUMPS &gt;= 8 N · UNFINISHED-PROFILE TERM
+  </text>
+  <text x="145" y="824" font-size="31" font-weight="700" fill="#ffffff">
+    96.4% drag
+  </text>
+  <line x1="405" y1="786" x2="405" y2="831" stroke="#7faac4" stroke-width="2"/>
+  <text x="451" y="824" font-size="31" font-weight="700" fill="#ffffff">
+    97.0% circumduction
+  </text>
+  <text x="1453" y="823" text-anchor="end" font-size="18" font-weight="600" fill="#cfe7f5">
+    N=1 · 2 trials
+  </text>
+</svg>

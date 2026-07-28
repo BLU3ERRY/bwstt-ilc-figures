@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">From low-speed baseline R-GED to the current extended active path</title>
+  <desc id="desc">Two aligned flowcharts compare the healthy low-speed baseline with the current active extension. The physical event sequence is preserved, while amplitude and timing scales become gait-relative and event provenance controls ILC learning.</desc>
+
+  <defs>
+    <filter id="shadow" x="-15%" y="-15%" width="130%" height="140%">
+      <feDropShadow dx="0" dy="4" stdDeviation="7" flood-color="#102a43" flood-opacity="0.10"/>
+    </filter>
+    <marker id="arrow-gray" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L10,5 L0,10 z" fill="#52616f"/>
+    </marker>
+    <marker id="arrow-blue" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L10,5 L0,10 z" fill="#2563a7"/>
+    </marker>
+    <marker id="arrow-teal" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L10,5 L0,10 z" fill="#087f72"/>
+    </marker>
+    <style>
+      .title { font-family: "DejaVu Sans", Arial, sans-serif; font-size: 38px; font-weight: 700; fill: #12212f; }
+      .subtitle { font-family: "DejaVu Sans", Arial, sans-serif; font-size: 20px; font-weight: 400; fill: #5f6d7a; }
+      .panel-title { font-family: "DejaVu Sans", Arial, sans-serif; font-size: 27px; font-weight: 700; fill: #ffffff; }
+      .panel-sub { font-family: "DejaVu Sans", Arial, sans-serif; font-size: 16px; font-weight: 500; fill: #ffffff; opacity: 0.92; }
+      .role { font-family: "DejaVu Sans", Arial, sans-serif; font-size: 14px; font-weight: 700; letter-spacing: 1.2px; }
+      .box-main { font-family: "DejaVu Sans", Arial, sans-serif; font-size: 20px; font-weight: 700; fill: #172737; }
+      .box-sub { font-family: "DejaVu Sans", Arial, sans-serif; font-size: 16px; font-weight: 400; fill: #52616f; }
+      .decision { font-family: "DejaVu Sans", Arial, sans-serif; font-size: 18px; font-weight: 700; fill: #172737; }
+      .branch { font-family: "DejaVu Sans", Arial, sans-serif; font-size: 14px; font-weight: 700; }
+      .boundary-title { font-family: "DejaVu Sans", Arial, sans-serif; font-size: 18px; font-weight: 700; fill: #172737; }
+      .boundary-sub { font-family: "DejaVu Sans", Arial, sans-serif; font-size: 15px; font-weight: 400; fill: #4d5b68; }
+      .footer { font-family: "DejaVu Sans", Arial, sans-serif; font-size: 18px; font-weight: 600; fill: #ffffff; }
+      .footer-em { font-weight: 800; fill: #d8fff7; }
+      .arrow { fill: none; stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round; }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="1600" height="900" fill="#ffffff"/>
+
+  <text class="title" x="800" y="50" text-anchor="middle">From Low-Speed Baseline R-GED to the Extended Active Path</text>
+  <text class="subtitle" x="800" y="82" text-anchor="middle">The contact sequence stays; its amplitude scale, time support, and use by ILC become gait-relative</text>
+
+  <!-- LEFT PANEL: BASELINE -->
+  <rect x="45" y="108" width="720" height="690" rx="22" fill="#f6f9fd" stroke="#b8cbe0" stroke-width="2" filter="url(#shadow)"/>
+  <path d="M67,108 H743 Q765,108 765,130 V190 H45 V130 Q45,108 67,108 Z" fill="#315f8f"/>
+  <text class="panel-title" x="75" y="146">HEALTHY LOW-SPEED BASELINE</text>
+  <text class="panel-sub" x="75" y="174">our modified BWSTT detector — fixed physical scales</text>
+
+  <rect x="190" y="212" width="430" height="54" rx="27" fill="#ffffff" stroke="#7f9fbe" stroke-width="2"/>
+  <text class="box-main" x="405" y="246" text-anchor="middle">Bilateral shank angular velocity</text>
+
+  <path class="arrow" d="M405,267 V289" stroke="#2563a7" marker-end="url(#arrow-blue)"/>
+
+  <rect x="105" y="298" width="600" height="72" rx="13" fill="#ffffff" stroke="#8aa8c4" stroke-width="2"/>
+  <rect x="105" y="298" width="152" height="72" rx="13" fill="#e5f0fa"/>
+  <path d="M245,298 H257 V370 H245 Z" fill="#e5f0fa"/>
+  <text class="role" x="181" y="329" text-anchor="middle" fill="#315f8f">OPEN SEARCH</text>
+  <text class="box-main" x="281" y="327">Fixed MSW amplitude gate</text>
+  <text class="box-sub" x="281" y="352">one absolute threshold for both sides</text>
+
+  <path class="arrow" d="M405,371 V393" stroke="#2563a7" marker-end="url(#arrow-blue)"/>
+
+  <rect x="105" y="402" width="600" height="92" rx="13" fill="#ffffff" stroke="#8aa8c4" stroke-width="2"/>
+  <rect x="105" y="402" width="152" height="92" rx="13" fill="#e5f0fa"/>
+  <path d="M245,402 H257 V494 H245 Z" fill="#e5f0fa"/>
+  <text class="role" x="181" y="437" text-anchor="middle" fill="#315f8f">LOCATE IC</text>
+  <text class="box-main" x="281" y="433">Fixed-ms search and plausibility support</text>
+  <text class="box-sub" x="281" y="460">first negative sample → 80-ms running minimum</text>
+  <text class="box-sub" x="281" y="482">fixed-ms lockout and side guards</text>
+
+  <path class="arrow" d="M405,495 V514" stroke="#2563a7" marker-end="url(#arrow-blue)"/>
+
+  <polygon points="405,520 502,570 405,620 308,570" fill="#fffdf5" stroke="#c39427" stroke-width="2"/>
+  <text class="decision" x="405" y="562" text-anchor="middle">Usable real IC</text>
+  <text class="decision" x="405" y="586" text-anchor="middle">before deadline?</text>
+
+  <path class="arrow" d="M502,570 H605 V642" stroke="#2563a7" marker-end="url(#arrow-blue)"/>
+  <text class="branch" x="535" y="557" fill="#2563a7">YES</text>
+  <rect x="457" y="650" width="278" height="108" rx="14" fill="#eaf6ef" stroke="#3a8c65" stroke-width="2"/>
+  <text class="boundary-title" x="596" y="680" text-anchor="middle">REAL boundary</text>
+  <text class="boundary-sub" x="596" y="705" text-anchor="middle">phase reset + side profile</text>
+  <text class="boundary-sub" x="596" y="729" text-anchor="middle">real-event learning path</text>
+
+  <path class="arrow" d="M308,570 H205 V642" stroke="#7a8793" marker-end="url(#arrow-gray)"/>
+  <text class="branch" x="255" y="557" fill="#6c7883">NO</text>
+  <rect x="75" y="650" width="278" height="108" rx="14" fill="#f1f3f5" stroke="#98a4af" stroke-width="2"/>
+  <text class="boundary-title" x="214" y="680" text-anchor="middle">CADENCE boundary</text>
+  <text class="boundary-sub" x="214" y="705" text-anchor="middle">keep phase + profile running</text>
+  <text class="boundary-sub" x="214" y="729" text-anchor="middle">do not learn from prediction</text>
+
+  <!-- RIGHT PANEL: EXTENDED ACTIVE -->
+  <rect x="835" y="108" width="720" height="690" rx="22" fill="#f4fbf9" stroke="#a6d3c9" stroke-width="2" filter="url(#shadow)"/>
+  <path d="M857,108 H1533 Q1555,108 1555,130 V190 H835 V130 Q835,108 857,108 Z" fill="#0a756b"/>
+  <text class="panel-title" x="865" y="146">EXTENDED ACTIVE PATH</text>
+  <text class="panel-sub" x="865" y="174">same motion sequence — gait-relative scales and event trust</text>
+
+  <rect x="980" y="212" width="430" height="54" rx="27" fill="#ffffff" stroke="#68a99b" stroke-width="2"/>
+  <text class="box-main" x="1195" y="246" text-anchor="middle">Bilateral shank angular velocity</text>
+
+  <path class="arrow" d="M1195,267 V289" stroke="#087f72" marker-end="url(#arrow-teal)"/>
+
+  <rect x="895" y="298" width="600" height="72" rx="13" fill="#ffffff" stroke="#71b1a3" stroke-width="2"/>
+  <rect x="895" y="298" width="152" height="72" rx="13" fill="#dff4ef"/>
+  <path d="M1035,298 H1047 V370 H1035 Z" fill="#dff4ef"/>
+  <text class="role" x="971" y="329" text-anchor="middle" fill="#087f72">OPEN SEARCH</text>
+  <text class="box-main" x="1071" y="327">Bounded, per-side swing-relative gate</text>
+  <text class="box-sub" x="1071" y="352">normalized by each leg's recent swing peaks</text>
+
+  <path class="arrow" d="M1195,371 V393" stroke="#087f72" marker-end="url(#arrow-teal)"/>
+
+  <rect x="895" y="402" width="600" height="92" rx="13" fill="#ffffff" stroke="#71b1a3" stroke-width="2"/>
+  <rect x="895" y="402" width="152" height="92" rx="13" fill="#dff4ef"/>
+  <path d="M1035,402 H1047 V494 H1035 Z" fill="#dff4ef"/>
+  <text class="role" x="971" y="437" text-anchor="middle" fill="#087f72">LOCATE IC</text>
+  <text class="box-main" x="1071" y="433">Step/stride-relative search and guards</text>
+  <text class="box-sub" x="1071" y="460">the same first-negative → 80-ms minimum rule</text>
+  <text class="box-sub" x="1071" y="482">bounded support, lockout, and side plausibility</text>
+
+  <path class="arrow" d="M1195,495 V514" stroke="#087f72" marker-end="url(#arrow-teal)"/>
+
+  <polygon points="1195,520 1292,570 1195,620 1098,570" fill="#fffdf5" stroke="#c39427" stroke-width="2"/>
+  <text class="decision" x="1195" y="562" text-anchor="middle">Usable real IC</text>
+  <text class="decision" x="1195" y="586" text-anchor="middle">before deadline?</text>
+
+  <path class="arrow" d="M1292,570 H1430 V642" stroke="#087f72" marker-end="url(#arrow-teal)"/>
+  <text class="branch" x="1331" y="557" fill="#087f72">YES</text>
+  <rect x="1300" y="650" width="230" height="108" rx="14" fill="#e1f5eb" stroke="#2d8c62" stroke-width="2"/>
+  <text class="boundary-title" x="1415" y="679" text-anchor="middle">REAL + provenance</text>
+  <text class="boundary-sub" x="1415" y="704" text-anchor="middle">apply boundary</text>
+  <text class="boundary-sub" x="1415" y="728" text-anchor="middle">learn only from a valid,</text>
+  <text class="boundary-sub" x="1415" y="749" text-anchor="middle">contiguous real interval</text>
+
+  <path class="arrow" d="M1098,570 H1017 V601" stroke="#7a8793" marker-end="url(#arrow-gray)"/>
+  <text class="branch" x="1055" y="557" fill="#6c7883">NO</text>
+  <polygon points="1017,607 1094,647 1017,687 940,647" fill="#fffdf5" stroke="#c39427" stroke-width="2"/>
+  <text class="decision" x="1017" y="640" text-anchor="middle" font-size="16">Already tracking</text>
+  <text class="decision" x="1017" y="661" text-anchor="middle" font-size="16">contact?</text>
+
+  <path class="arrow" d="M940,647 H875 V460 H887" stroke="#087f72" marker-end="url(#arrow-teal)"/>
+  <text class="branch" x="884" y="632" fill="#087f72">YES · WAIT</text>
+
+  <path class="arrow" d="M1017,687 V715" stroke="#7a8793" marker-end="url(#arrow-gray)"/>
+  <text class="branch" x="1030" y="705" fill="#6c7883">NO</text>
+  <rect x="845" y="723" width="345" height="54" rx="14" fill="#f1f3f5" stroke="#98a4af" stroke-width="2"/>
+  <text class="boundary-title" x="1017" y="746" text-anchor="middle" font-size="17">PREDICTED application boundary</text>
+  <text class="boundary-sub" x="1017" y="768" text-anchor="middle">continue application · skip learning</text>
+
+  <!-- Bottom take-home band -->
+  <rect x="45" y="820" width="1510" height="58" rx="16" fill="#173f57"/>
+  <text class="footer" x="800" y="857" text-anchor="middle">
+    Preserve the motion sequence; make <tspan class="footer-em">amplitude and time gait-relative</tspan>, then separate <tspan class="footer-em">application continuity</tspan> from <tspan class="footer-em">learning trust</tspan>.
+  </text>
+</svg>
