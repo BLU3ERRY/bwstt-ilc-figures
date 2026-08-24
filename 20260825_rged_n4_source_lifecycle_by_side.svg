@@ -6,7 +6,6 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-08-25T06:30:59.871202</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -233,146 +232,37 @@ z
     </g>
    </g>
    <g id="text_2">
-    <!-- real-first 86.8% -->
-    <g style="fill: #0072b2" transform="translate(87.121561 118.165455) scale(0.0525 -0.0525)">
+    <!-- S1 86.8% -->
+    <g style="fill: #0072b2" transform="translate(70.175781 118.076587) scale(0.049 -0.049)">
      <defs>
-      <path id="Pretendard-Bold-72" d="M 363 0 
-L 1288 0 
-L 1288 1931 
-C 1288 2344 1594 2638 2013 2638 
-C 2144 2638 2319 2613 2406 2588 
-L 2406 3413 
-C 2325 3431 2206 3444 2113 3444 
-C 1731 3444 1419 3225 1294 2806 
-L 1256 2806 
-L 1256 3394 
-L 363 3394 
-L 363 0 
+      <path id="Pretendard-Bold-53" d="M 2838 3231 
+L 3738 3231 
+C 3725 4031 3063 4588 2063 4588 
+C 1075 4588 350 4044 350 3219 
+C 350 2556 819 2175 1581 1988 
+L 2075 1869 
+C 2569 1744 2850 1600 2850 1294 
+C 2850 956 2531 725 2038 725 
+C 1538 725 1175 956 1144 1413 
+L 231 1413 
+C 256 444 956 -63 2050 -63 
+C 3150 -63 3800 463 3800 1294 
+C 3800 2050 3219 2444 2444 2619 
+L 2038 2719 
+C 1650 2806 1306 2956 1313 3281 
+C 1319 3581 1581 3800 2056 3800 
+C 2513 3800 2800 3588 2838 3231 
 z
 " transform="scale(0.015625)"/>
-      <path id="Pretendard-Bold-65" d="M 1900 -69 
-C 2738 -69 3300 344 3431 969 
-L 2550 969 
-C 2456 763 2231 625 1919 625 
-C 1444 625 1138 944 1138 1456 
-L 3456 1456 
-L 3456 1719 
-C 3456 2875 2756 3438 1863 3438 
-C 869 3438 225 2731 225 1681 
-C 225 606 863 -69 1900 -69 
-z
-M 1138 2038 
-C 1153 2428 1456 2744 1881 2744 
-C 2294 2744 2581 2450 2581 2038 
-L 1138 2038 
-z
-" transform="scale(0.015625)"/>
-      <path id="Pretendard-Bold-61" d="M 200 950 
-C 200 275 681 -63 1331 -63 
-C 1838 -63 2156 156 2325 469 
-L 2350 469 
-L 2350 0 
-L 3225 0 
-L 3225 2288 
-C 3225 3106 2525 3438 1788 3438 
-C 888 3438 375 2975 319 2388 
-L 1200 2388 
-C 1250 2619 1450 2763 1763 2763 
-C 2106 2763 2300 2594 2306 2313 
-L 2306 2038 
-C 2163 2031 1706 2009 1463 1994 
-C 813 1956 200 1706 200 950 
-z
-M 1088 975 
-C 1088 1238 1294 1388 1613 1419 
-C 1772 1434 2166 1456 2306 1463 
-L 2306 1213 
-C 2313 856 2013 575 1594 575 
-C 1300 575 1088 713 1088 975 
-z
-" transform="scale(0.015625)"/>
-      <path id="Pretendard-Bold-6c" d="M 1288 4525 
-L 363 4525 
-L 363 0 
-L 1288 0 
-L 1288 4525 
-z
-" transform="scale(0.015625)"/>
-      <path id="Pretendard-Bold-2d" d="M 2469 2231 
-L 406 2231 
-L 406 1494 
-L 2469 1494 
-L 2469 2231 
-z
-" transform="scale(0.015625)"/>
-      <path id="Pretendard-Bold-66" d="M 2169 3394 
-L 1494 3394 
-L 1494 3600 
-C 1494 3881 1650 4000 1950 4000 
-C 2000 4000 2100 3994 2231 3981 
-L 2231 4681 
-C 2069 4719 1894 4738 1681 4738 
-C 1000 4738 569 4363 569 3650 
-L 569 3394 
-L 88 3394 
-L 88 2700 
-L 569 2700 
-L 569 0 
-L 1494 0 
-L 1494 2700 
-L 2169 2700 
-L 2169 3394 
-z
-" transform="scale(0.015625)"/>
-      <path id="Pretendard-Bold-69" d="M 363 0 
-L 1288 0 
-L 1288 3394 
-L 363 3394 
-L 363 0 
-z
-M 825 3838 
-C 1100 3838 1325 4050 1325 4306 
-C 1325 4569 1100 4781 825 4781 
-C 544 4781 319 4569 319 4306 
-C 319 4050 544 3838 825 3838 
-z
-" transform="scale(0.015625)"/>
-      <path id="Pretendard-Bold-73" d="M 2300 2388 
-L 3169 2388 
-C 3119 3031 2588 3438 1731 3438 
-C 856 3438 294 3031 300 2381 
-C 294 1881 631 1544 1275 1419 
-L 1838 1306 
-C 2156 1238 2300 1131 2300 956 
-C 2300 738 2075 600 1738 600 
-C 1400 600 1181 738 1138 1006 
-L 206 1006 
-C 281 344 819 -69 1738 -69 
-C 2638 -69 3238 381 3244 1050 
-C 3238 1538 2919 1831 2263 1969 
-L 1656 2094 
-C 1338 2163 1213 2281 1219 2431 
-C 1213 2638 1444 2781 1744 2781 
-C 2050 2781 2263 2625 2300 2388 
-z
-" transform="scale(0.015625)"/>
-      <path id="Pretendard-Bold-74" d="M 2150 3394 
-L 1513 3394 
-L 1513 4206 
-L 588 4206 
-L 588 3394 
-L 119 3394 
-L 119 2700 
-L 588 2700 
-L 588 913 
-C 581 256 1038 -44 1706 -44 
-C 1938 -44 2100 -31 2200 -13 
-L 2200 719 
-C 2088 706 1925 700 1831 700 
-C 1644 706 1513 775 1513 1044 
-L 1513 2700 
-L 2150 2700 
-L 2150 3394 
+      <path id="Pretendard-Bold-31" d="M 2306 4525 
+L 1419 4525 
+L 300 3813 
+L 300 2981 
+L 1338 3631 
+L 1363 3631 
+L 1363 0 
+L 2306 0 
+L 2306 4525 
 z
 " transform="scale(0.015625)"/>
       <path id="Pretendard-Bold-20" transform="scale(0.015625)"/>
@@ -459,109 +349,20 @@ L 1150 0
 z
 " transform="scale(0.015625)"/>
      </defs>
-     <use xlink:href="#Pretendard-Bold-72"/>
-     <use xlink:href="#Pretendard-Bold-65" x="38.964844"/>
-     <use xlink:href="#Pretendard-Bold-61" x="96.386719"/>
-     <use xlink:href="#Pretendard-Bold-6c" x="152.148438"/>
-     <use xlink:href="#Pretendard-Bold-2d" x="177.832031"/>
-     <use xlink:href="#Pretendard-Bold-66" x="222.753906"/>
-     <use xlink:href="#Pretendard-Bold-69" x="259.472656"/>
-     <use xlink:href="#Pretendard-Bold-72" x="285.15625"/>
-     <use xlink:href="#Pretendard-Bold-73" x="324.121094"/>
-     <use xlink:href="#Pretendard-Bold-74" x="378.027344"/>
-     <use xlink:href="#Pretendard-Bold-20" x="415.039062"/>
-     <use xlink:href="#Pretendard-Bold-38" x="438.085938"/>
-     <use xlink:href="#Pretendard-Bold-36" x="502.441406"/>
-     <use xlink:href="#Pretendard-Bold-2e" x="566.699219"/>
-     <use xlink:href="#Pretendard-Bold-38" x="594.921875"/>
-     <use xlink:href="#Pretendard-Bold-25" x="659.277344"/>
+     <use xlink:href="#Pretendard-Bold-53"/>
+     <use xlink:href="#Pretendard-Bold-31" x="62.988281"/>
+     <use xlink:href="#Pretendard-Bold-20" x="109.863281"/>
+     <use xlink:href="#Pretendard-Bold-38" x="132.910156"/>
+     <use xlink:href="#Pretendard-Bold-36" x="197.265625"/>
+     <use xlink:href="#Pretendard-Bold-2e" x="261.523438"/>
+     <use xlink:href="#Pretendard-Bold-38" x="289.746094"/>
+     <use xlink:href="#Pretendard-Bold-25" x="354.101562"/>
     </g>
    </g>
    <g id="text_3">
-    <!-- reconciled 96.2% of prediction -->
-    <g style="fill: #009e73" transform="translate(68.669451 125.993971) scale(0.0525 -0.0525)">
+    <!-- S2 13.2% -->
+    <g style="fill: #cc79a7" transform="translate(121.838536 118.076587) scale(0.049 -0.049)">
      <defs>
-      <path id="Pretendard-Bold-63" d="M 1888 -69 
-C 2788 -69 3350 463 3394 1231 
-L 2525 1231 
-C 2469 869 2225 669 1900 669 
-C 1450 669 1163 1044 1163 1700 
-C 1163 2344 1456 2719 1900 2719 
-C 2250 2719 2469 2488 2525 2150 
-L 3394 2150 
-C 3356 2925 2763 3438 1888 3438 
-C 856 3438 225 2725 225 1688 
-C 225 650 850 -69 1888 -69 
-z
-" transform="scale(0.015625)"/>
-      <path id="Pretendard-Bold-6f" d="M 1888 -69 
-C 2913 -69 3556 638 3556 1688 
-C 3556 2738 2913 3438 1888 3438 
-C 863 3438 225 2738 225 1688 
-C 225 638 863 -69 1888 -69 
-z
-M 1894 650 
-C 1413 650 1163 1094 1163 1688 
-C 1163 2288 1413 2731 1894 2731 
-C 2369 2731 2613 2288 2613 1688 
-C 2613 1094 2369 650 1894 650 
-z
-" transform="scale(0.015625)"/>
-      <path id="Pretendard-Bold-6e" d="M 1288 1963 
-C 1288 2413 1550 2669 1938 2669 
-C 2319 2669 2550 2419 2550 2000 
-L 2550 0 
-L 3469 0 
-L 3469 2163 
-C 3475 2956 3006 3438 2300 3438 
-C 1800 3438 1438 3194 1281 2800 
-L 1244 2800 
-L 1244 3394 
-L 363 3394 
-L 363 0 
-L 1288 0 
-L 1288 1963 
-z
-" transform="scale(0.015625)"/>
-      <path id="Pretendard-Bold-64" d="M 1613 -56 
-C 2163 -56 2444 263 2575 544 
-L 2619 544 
-L 2619 0 
-L 3531 0 
-L 3531 4525 
-L 2606 4525 
-L 2606 2825 
-L 2575 2825 
-C 2450 3100 2181 3438 1613 3438 
-C 863 3438 231 2856 231 1694 
-C 231 563 838 -56 1613 -56 
-z
-M 1900 681 
-C 1431 681 1181 1100 1181 1700 
-C 1181 2294 1431 2700 1900 2700 
-C 2363 2700 2625 2313 2625 1700 
-C 2625 1088 2363 681 1900 681 
-z
-" transform="scale(0.015625)"/>
-      <path id="Pretendard-Bold-39" d="M 2006 4588 
-C 981 4594 294 3931 294 3019 
-C 300 2175 900 1563 1713 1563 
-C 2219 1563 2663 1800 2875 2200 
-L 2913 2200 
-C 2913 1294 2588 744 1969 744 
-C 1606 744 1344 944 1269 1275 
-L 344 1275 
-C 438 506 1056 -63 1969 -63 
-C 3106 -63 3838 844 3831 2381 
-C 3831 4025 2944 4581 2006 4588 
-z
-M 2013 3850 
-C 2475 3850 2813 3481 2819 3050 
-C 2819 2613 2463 2250 2006 2250 
-C 1544 2250 1213 2600 1213 3044 
-C 1206 3494 1550 3850 2013 3850 
-z
-" transform="scale(0.015625)"/>
       <path id="Pretendard-Bold-32" d="M 356 0 
 L 3594 0 
 L 3594 775 
@@ -579,60 +380,243 @@ L 350 681
 L 356 0 
 z
 " transform="scale(0.015625)"/>
-      <path id="Pretendard-Bold-70" d="M 363 -1275 
-L 1288 -1275 
-L 1288 544 
-L 1313 544 
-C 1444 263 1725 -56 2281 -56 
-C 3056 -56 3656 563 3656 1694 
-C 3656 2856 3031 3438 2281 3438 
-C 1713 3438 1438 3100 1313 2825 
-L 1275 2825 
-L 1275 3394 
-L 363 3394 
-L 363 -1275 
-z
-M 1269 1700 
-C 1269 2313 1525 2700 1988 2700 
-C 2463 2700 2713 2294 2713 1700 
-C 2713 1100 2463 681 1988 681 
-C 1531 681 1269 1088 1269 1700 
+      <path id="Pretendard-Bold-33" d="M 2031 -63 
+C 3050 -63 3788 494 3781 1269 
+C 3788 1831 3419 2238 2756 2319 
+L 2756 2356 
+C 3263 2444 3619 2806 3613 3313 
+C 3619 4031 2988 4588 2044 4588 
+C 1119 4588 413 4050 400 3269 
+L 1300 3269 
+C 1313 3613 1644 3838 2044 3838 
+C 2444 3838 2706 3600 2706 3256 
+C 2706 2900 2394 2656 1950 2656 
+L 1531 2656 
+L 1531 1963 
+L 1950 1963 
+C 2481 1963 2813 1700 2806 1331 
+C 2813 969 2488 713 2038 713 
+C 1600 713 1275 938 1256 1275 
+L 306 1275 
+C 325 488 1038 -63 2031 -63 
 z
 " transform="scale(0.015625)"/>
      </defs>
-     <use xlink:href="#Pretendard-Bold-72"/>
-     <use xlink:href="#Pretendard-Bold-65" x="38.964844"/>
-     <use xlink:href="#Pretendard-Bold-63" x="96.386719"/>
-     <use xlink:href="#Pretendard-Bold-6f" x="152.734375"/>
-     <use xlink:href="#Pretendard-Bold-6e" x="211.71875"/>
-     <use xlink:href="#Pretendard-Bold-63" x="271.484375"/>
-     <use xlink:href="#Pretendard-Bold-69" x="327.832031"/>
-     <use xlink:href="#Pretendard-Bold-6c" x="353.515625"/>
-     <use xlink:href="#Pretendard-Bold-65" x="379.199219"/>
-     <use xlink:href="#Pretendard-Bold-64" x="436.621094"/>
-     <use xlink:href="#Pretendard-Bold-20" x="497.753906"/>
-     <use xlink:href="#Pretendard-Bold-39" x="520.800781"/>
-     <use xlink:href="#Pretendard-Bold-36" x="585.058594"/>
-     <use xlink:href="#Pretendard-Bold-2e" x="649.316406"/>
-     <use xlink:href="#Pretendard-Bold-32" x="677.539062"/>
-     <use xlink:href="#Pretendard-Bold-25" x="738.574219"/>
-     <use xlink:href="#Pretendard-Bold-20" x="834.570312"/>
-     <use xlink:href="#Pretendard-Bold-6f" x="857.617188"/>
-     <use xlink:href="#Pretendard-Bold-66" x="916.601562"/>
-     <use xlink:href="#Pretendard-Bold-20" x="953.320312"/>
-     <use xlink:href="#Pretendard-Bold-70" x="976.367188"/>
-     <use xlink:href="#Pretendard-Bold-72" x="1037.207031"/>
-     <use xlink:href="#Pretendard-Bold-65" x="1076.171875"/>
-     <use xlink:href="#Pretendard-Bold-64" x="1133.59375"/>
-     <use xlink:href="#Pretendard-Bold-69" x="1194.726562"/>
-     <use xlink:href="#Pretendard-Bold-63" x="1220.410156"/>
-     <use xlink:href="#Pretendard-Bold-74" x="1276.757812"/>
-     <use xlink:href="#Pretendard-Bold-69" x="1313.769531"/>
-     <use xlink:href="#Pretendard-Bold-6f" x="1339.453125"/>
-     <use xlink:href="#Pretendard-Bold-6e" x="1398.4375"/>
+     <use xlink:href="#Pretendard-Bold-53"/>
+     <use xlink:href="#Pretendard-Bold-32" x="62.988281"/>
+     <use xlink:href="#Pretendard-Bold-20" x="124.023438"/>
+     <use xlink:href="#Pretendard-Bold-31" x="147.070312"/>
+     <use xlink:href="#Pretendard-Bold-33" x="193.945312"/>
+     <use xlink:href="#Pretendard-Bold-2e" x="257.8125"/>
+     <use xlink:href="#Pretendard-Bold-32" x="286.035156"/>
+     <use xlink:href="#Pretendard-Bold-25" x="347.070312"/>
     </g>
    </g>
    <g id="text_4">
+    <!-- S3 75.6% -->
+    <g style="fill: #009e73" transform="translate(63.960352 125.800103) scale(0.049 -0.049)">
+     <defs>
+      <path id="Pretendard-Bold-37" d="M 531 0 
+L 1506 0 
+L 3413 3744 
+L 3413 4525 
+L 219 4525 
+L 219 3756 
+L 2438 3756 
+L 2438 3725 
+L 531 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="Pretendard-Bold-35" d="M 2019 -63 
+C 3038 -63 3731 594 3731 1506 
+C 3731 2375 3113 2994 2281 2994 
+C 1881 2994 1544 2838 1375 2613 
+L 1338 2613 
+L 1463 3756 
+L 3475 3756 
+L 3475 4525 
+L 688 4525 
+L 444 1919 
+L 1294 1919 
+C 1431 2175 1669 2300 2006 2300 
+C 2481 2294 2819 1963 2819 1481 
+C 2819 1013 2488 681 2019 681 
+C 1625 681 1300 919 1281 1275 
+L 369 1275 
+C 388 494 1075 -63 2019 -63 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#Pretendard-Bold-53"/>
+     <use xlink:href="#Pretendard-Bold-33" x="62.988281"/>
+     <use xlink:href="#Pretendard-Bold-20" x="126.855469"/>
+     <use xlink:href="#Pretendard-Bold-37" x="149.902344"/>
+     <use xlink:href="#Pretendard-Bold-35" x="207.421875"/>
+     <use xlink:href="#Pretendard-Bold-2e" x="270.117188"/>
+     <use xlink:href="#Pretendard-Bold-36" x="298.339844"/>
+     <use xlink:href="#Pretendard-Bold-25" x="362.597656"/>
+    </g>
+   </g>
+   <g id="text_5">
+    <!-- S4 20.5% -->
+    <g style="fill: #e69f00" transform="translate(95.538405 125.800103) scale(0.049 -0.049)">
+     <defs>
+      <path id="Pretendard-Bold-34" d="M 281 800 
+L 2481 800 
+L 2481 0 
+L 3375 0 
+L 3375 800 
+L 3950 800 
+L 3950 1556 
+L 3375 1556 
+L 3375 4525 
+L 2194 4525 
+L 281 1544 
+L 281 800 
+z
+M 1231 1556 
+L 1231 1594 
+L 2450 3494 
+L 2494 3494 
+L 2494 1556 
+L 1231 1556 
+z
+" transform="scale(0.015625)"/>
+      <path id="Pretendard-Bold-30" d="M 2113 -63 
+C 3244 -63 3931 775 3931 2263 
+C 3931 3738 3244 4588 2113 4588 
+C 981 4588 294 3744 294 2263 
+C 294 781 981 -63 2113 -63 
+z
+M 2113 713 
+C 1588 713 1250 1219 1256 2263 
+C 1256 3294 1588 3819 2113 3819 
+C 2638 3819 2969 3294 2969 2263 
+C 2975 1219 2638 713 2113 713 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#Pretendard-Bold-53"/>
+     <use xlink:href="#Pretendard-Bold-34" x="62.988281"/>
+     <use xlink:href="#Pretendard-Bold-20" x="128.710938"/>
+     <use xlink:href="#Pretendard-Bold-32" x="151.757812"/>
+     <use xlink:href="#Pretendard-Bold-30" x="212.792969"/>
+     <use xlink:href="#Pretendard-Bold-2e" x="278.808594"/>
+     <use xlink:href="#Pretendard-Bold-35" x="307.03125"/>
+     <use xlink:href="#Pretendard-Bold-25" x="369.726562"/>
+    </g>
+   </g>
+   <g id="text_6">
+    <!-- no real 3.8% -->
+    <g style="fill: #777777" transform="translate(124.119801 125.800103) scale(0.049 -0.049)">
+     <defs>
+      <path id="Pretendard-Bold-6e" d="M 1288 1963 
+C 1288 2413 1550 2669 1938 2669 
+C 2319 2669 2550 2419 2550 2000 
+L 2550 0 
+L 3469 0 
+L 3469 2163 
+C 3475 2956 3006 3438 2300 3438 
+C 1800 3438 1438 3194 1281 2800 
+L 1244 2800 
+L 1244 3394 
+L 363 3394 
+L 363 0 
+L 1288 0 
+L 1288 1963 
+z
+" transform="scale(0.015625)"/>
+      <path id="Pretendard-Bold-6f" d="M 1888 -69 
+C 2913 -69 3556 638 3556 1688 
+C 3556 2738 2913 3438 1888 3438 
+C 863 3438 225 2738 225 1688 
+C 225 638 863 -69 1888 -69 
+z
+M 1894 650 
+C 1413 650 1163 1094 1163 1688 
+C 1163 2288 1413 2731 1894 2731 
+C 2369 2731 2613 2288 2613 1688 
+C 2613 1094 2369 650 1894 650 
+z
+" transform="scale(0.015625)"/>
+      <path id="Pretendard-Bold-72" d="M 363 0 
+L 1288 0 
+L 1288 1931 
+C 1288 2344 1594 2638 2013 2638 
+C 2144 2638 2319 2613 2406 2588 
+L 2406 3413 
+C 2325 3431 2206 3444 2113 3444 
+C 1731 3444 1419 3225 1294 2806 
+L 1256 2806 
+L 1256 3394 
+L 363 3394 
+L 363 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="Pretendard-Bold-65" d="M 1900 -69 
+C 2738 -69 3300 344 3431 969 
+L 2550 969 
+C 2456 763 2231 625 1919 625 
+C 1444 625 1138 944 1138 1456 
+L 3456 1456 
+L 3456 1719 
+C 3456 2875 2756 3438 1863 3438 
+C 869 3438 225 2731 225 1681 
+C 225 606 863 -69 1900 -69 
+z
+M 1138 2038 
+C 1153 2428 1456 2744 1881 2744 
+C 2294 2744 2581 2450 2581 2038 
+L 1138 2038 
+z
+" transform="scale(0.015625)"/>
+      <path id="Pretendard-Bold-61" d="M 200 950 
+C 200 275 681 -63 1331 -63 
+C 1838 -63 2156 156 2325 469 
+L 2350 469 
+L 2350 0 
+L 3225 0 
+L 3225 2288 
+C 3225 3106 2525 3438 1788 3438 
+C 888 3438 375 2975 319 2388 
+L 1200 2388 
+C 1250 2619 1450 2763 1763 2763 
+C 2106 2763 2300 2594 2306 2313 
+L 2306 2038 
+C 2163 2031 1706 2009 1463 1994 
+C 813 1956 200 1706 200 950 
+z
+M 1088 975 
+C 1088 1238 1294 1388 1613 1419 
+C 1772 1434 2166 1456 2306 1463 
+L 2306 1213 
+C 2313 856 2013 575 1594 575 
+C 1300 575 1088 713 1088 975 
+z
+" transform="scale(0.015625)"/>
+      <path id="Pretendard-Bold-6c" d="M 1288 4525 
+L 363 4525 
+L 363 0 
+L 1288 0 
+L 1288 4525 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#Pretendard-Bold-6e"/>
+     <use xlink:href="#Pretendard-Bold-6f" x="59.765625"/>
+     <use xlink:href="#Pretendard-Bold-20" x="118.75"/>
+     <use xlink:href="#Pretendard-Bold-72" x="141.796875"/>
+     <use xlink:href="#Pretendard-Bold-65" x="180.761719"/>
+     <use xlink:href="#Pretendard-Bold-61" x="238.183594"/>
+     <use xlink:href="#Pretendard-Bold-6c" x="293.945312"/>
+     <use xlink:href="#Pretendard-Bold-20" x="319.628906"/>
+     <use xlink:href="#Pretendard-Bold-33" x="342.675781"/>
+     <use xlink:href="#Pretendard-Bold-2e" x="406.542969"/>
+     <use xlink:href="#Pretendard-Bold-38" x="434.765625"/>
+     <use xlink:href="#Pretendard-Bold-25" x="499.121094"/>
+    </g>
+   </g>
+   <g id="text_7">
     <!-- 150 -->
     <g transform="translate(100.26167 12.997656) scale(0.082 -0.082)">
      <defs>
@@ -746,7 +730,7 @@ L 223.298174 36.593699
 z
 " style="fill: #dddddd; stroke: #ffffff; stroke-width: 0.9; stroke-linejoin: miter"/>
    </g>
-   <g id="text_5">
+   <g id="text_8">
     <!-- n=717 -->
     <g transform="translate(215.121296 64.720357) scale(0.06 -0.06)">
      <defs>
@@ -769,118 +753,77 @@ z
      <use xlink:href="#Pretendard-Regular-37" x="217.382812"/>
     </g>
    </g>
-   <g id="text_6">
-    <!-- real-first 75.7% -->
-    <g style="fill: #0072b2" transform="translate(203.871531 118.165455) scale(0.0525 -0.0525)">
-     <defs>
-      <path id="Pretendard-Bold-37" d="M 531 0 
-L 1506 0 
-L 3413 3744 
-L 3413 4525 
-L 219 4525 
-L 219 3756 
-L 2438 3756 
-L 2438 3725 
-L 531 0 
-z
-" transform="scale(0.015625)"/>
-      <path id="Pretendard-Bold-35" d="M 2019 -63 
-C 3038 -63 3731 594 3731 1506 
-C 3731 2375 3113 2994 2281 2994 
-C 1881 2994 1544 2838 1375 2613 
-L 1338 2613 
-L 1463 3756 
-L 3475 3756 
-L 3475 4525 
-L 688 4525 
-L 444 1919 
-L 1294 1919 
-C 1431 2175 1669 2300 2006 2300 
-C 2481 2294 2819 1963 2819 1481 
-C 2819 1013 2488 681 2019 681 
-C 1625 681 1300 919 1281 1275 
-L 369 1275 
-C 388 494 1075 -63 2019 -63 
-z
-" transform="scale(0.015625)"/>
-     </defs>
-     <use xlink:href="#Pretendard-Bold-72"/>
-     <use xlink:href="#Pretendard-Bold-65" x="38.964844"/>
-     <use xlink:href="#Pretendard-Bold-61" x="96.386719"/>
-     <use xlink:href="#Pretendard-Bold-6c" x="152.148438"/>
-     <use xlink:href="#Pretendard-Bold-2d" x="177.832031"/>
-     <use xlink:href="#Pretendard-Bold-66" x="222.753906"/>
-     <use xlink:href="#Pretendard-Bold-69" x="259.472656"/>
-     <use xlink:href="#Pretendard-Bold-72" x="285.15625"/>
-     <use xlink:href="#Pretendard-Bold-73" x="324.121094"/>
-     <use xlink:href="#Pretendard-Bold-74" x="378.027344"/>
-     <use xlink:href="#Pretendard-Bold-20" x="415.039062"/>
-     <use xlink:href="#Pretendard-Bold-37" x="438.085938"/>
-     <use xlink:href="#Pretendard-Bold-35" x="495.605469"/>
-     <use xlink:href="#Pretendard-Bold-2e" x="558.300781"/>
-     <use xlink:href="#Pretendard-Bold-37" x="586.523438"/>
-     <use xlink:href="#Pretendard-Bold-25" x="644.042969"/>
+   <g id="text_9">
+    <!-- S1 75.7% -->
+    <g style="fill: #0072b2" transform="translate(186.899064 118.076587) scale(0.049 -0.049)">
+     <use xlink:href="#Pretendard-Bold-53"/>
+     <use xlink:href="#Pretendard-Bold-31" x="62.988281"/>
+     <use xlink:href="#Pretendard-Bold-20" x="109.863281"/>
+     <use xlink:href="#Pretendard-Bold-37" x="132.910156"/>
+     <use xlink:href="#Pretendard-Bold-35" x="190.429688"/>
+     <use xlink:href="#Pretendard-Bold-2e" x="253.125"/>
+     <use xlink:href="#Pretendard-Bold-37" x="281.347656"/>
+     <use xlink:href="#Pretendard-Bold-25" x="338.867188"/>
     </g>
    </g>
-   <g id="text_7">
-    <!-- reconciled 83.3% of prediction -->
-    <g style="fill: #009e73" transform="translate(184.952253 125.993971) scale(0.0525 -0.0525)">
-     <defs>
-      <path id="Pretendard-Bold-33" d="M 2031 -63 
-C 3050 -63 3788 494 3781 1269 
-C 3788 1831 3419 2238 2756 2319 
-L 2756 2356 
-C 3263 2444 3619 2806 3613 3313 
-C 3619 4031 2988 4588 2044 4588 
-C 1119 4588 413 4050 400 3269 
-L 1300 3269 
-C 1313 3613 1644 3838 2044 3838 
-C 2444 3838 2706 3600 2706 3256 
-C 2706 2900 2394 2656 1950 2656 
-L 1531 2656 
-L 1531 1963 
-L 1950 1963 
-C 2481 1963 2813 1700 2806 1331 
-C 2813 969 2488 713 2038 713 
-C 1600 713 1275 938 1256 1275 
-L 306 1275 
-C 325 488 1038 -63 2031 -63 
-z
-" transform="scale(0.015625)"/>
-     </defs>
-     <use xlink:href="#Pretendard-Bold-72"/>
-     <use xlink:href="#Pretendard-Bold-65" x="38.964844"/>
-     <use xlink:href="#Pretendard-Bold-63" x="96.386719"/>
-     <use xlink:href="#Pretendard-Bold-6f" x="152.734375"/>
-     <use xlink:href="#Pretendard-Bold-6e" x="211.71875"/>
-     <use xlink:href="#Pretendard-Bold-63" x="271.484375"/>
-     <use xlink:href="#Pretendard-Bold-69" x="327.832031"/>
-     <use xlink:href="#Pretendard-Bold-6c" x="353.515625"/>
-     <use xlink:href="#Pretendard-Bold-65" x="379.199219"/>
-     <use xlink:href="#Pretendard-Bold-64" x="436.621094"/>
-     <use xlink:href="#Pretendard-Bold-20" x="497.753906"/>
-     <use xlink:href="#Pretendard-Bold-38" x="520.800781"/>
-     <use xlink:href="#Pretendard-Bold-33" x="585.15625"/>
-     <use xlink:href="#Pretendard-Bold-2e" x="649.023438"/>
-     <use xlink:href="#Pretendard-Bold-33" x="677.246094"/>
-     <use xlink:href="#Pretendard-Bold-25" x="741.113281"/>
-     <use xlink:href="#Pretendard-Bold-20" x="837.109375"/>
-     <use xlink:href="#Pretendard-Bold-6f" x="860.15625"/>
-     <use xlink:href="#Pretendard-Bold-66" x="919.140625"/>
-     <use xlink:href="#Pretendard-Bold-20" x="955.859375"/>
-     <use xlink:href="#Pretendard-Bold-70" x="978.90625"/>
-     <use xlink:href="#Pretendard-Bold-72" x="1039.746094"/>
-     <use xlink:href="#Pretendard-Bold-65" x="1078.710938"/>
-     <use xlink:href="#Pretendard-Bold-64" x="1136.132812"/>
-     <use xlink:href="#Pretendard-Bold-69" x="1197.265625"/>
-     <use xlink:href="#Pretendard-Bold-63" x="1222.949219"/>
-     <use xlink:href="#Pretendard-Bold-74" x="1279.296875"/>
-     <use xlink:href="#Pretendard-Bold-69" x="1316.308594"/>
-     <use xlink:href="#Pretendard-Bold-6f" x="1341.992188"/>
-     <use xlink:href="#Pretendard-Bold-6e" x="1400.976562"/>
+   <g id="text_10">
+    <!-- S2 24.3% -->
+    <g style="fill: #cc79a7" transform="translate(237.726521 118.076587) scale(0.049 -0.049)">
+     <use xlink:href="#Pretendard-Bold-53"/>
+     <use xlink:href="#Pretendard-Bold-32" x="62.988281"/>
+     <use xlink:href="#Pretendard-Bold-20" x="124.023438"/>
+     <use xlink:href="#Pretendard-Bold-32" x="147.070312"/>
+     <use xlink:href="#Pretendard-Bold-34" x="208.105469"/>
+     <use xlink:href="#Pretendard-Bold-2e" x="273.828125"/>
+     <use xlink:href="#Pretendard-Bold-33" x="302.050781"/>
+     <use xlink:href="#Pretendard-Bold-25" x="365.917969"/>
     </g>
    </g>
-   <g id="text_8">
+   <g id="text_11">
+    <!-- S3 40.8% -->
+    <g style="fill: #009e73" transform="translate(180.02558 125.800103) scale(0.049 -0.049)">
+     <use xlink:href="#Pretendard-Bold-53"/>
+     <use xlink:href="#Pretendard-Bold-33" x="62.988281"/>
+     <use xlink:href="#Pretendard-Bold-20" x="126.855469"/>
+     <use xlink:href="#Pretendard-Bold-34" x="149.902344"/>
+     <use xlink:href="#Pretendard-Bold-30" x="215.625"/>
+     <use xlink:href="#Pretendard-Bold-2e" x="281.640625"/>
+     <use xlink:href="#Pretendard-Bold-38" x="309.863281"/>
+     <use xlink:href="#Pretendard-Bold-25" x="374.21875"/>
+    </g>
+   </g>
+   <g id="text_12">
+    <!-- S4 42.5% -->
+    <g style="fill: #e69f00" transform="translate(211.895335 125.800103) scale(0.049 -0.049)">
+     <use xlink:href="#Pretendard-Bold-53"/>
+     <use xlink:href="#Pretendard-Bold-34" x="62.988281"/>
+     <use xlink:href="#Pretendard-Bold-20" x="128.710938"/>
+     <use xlink:href="#Pretendard-Bold-34" x="151.757812"/>
+     <use xlink:href="#Pretendard-Bold-32" x="217.480469"/>
+     <use xlink:href="#Pretendard-Bold-2e" x="278.515625"/>
+     <use xlink:href="#Pretendard-Bold-35" x="306.738281"/>
+     <use xlink:href="#Pretendard-Bold-25" x="369.433594"/>
+    </g>
+   </g>
+   <g id="text_13">
+    <!-- no real 16.7% -->
+    <g style="fill: #777777" transform="translate(239.479122 125.800103) scale(0.049 -0.049)">
+     <use xlink:href="#Pretendard-Bold-6e"/>
+     <use xlink:href="#Pretendard-Bold-6f" x="59.765625"/>
+     <use xlink:href="#Pretendard-Bold-20" x="118.75"/>
+     <use xlink:href="#Pretendard-Bold-72" x="141.796875"/>
+     <use xlink:href="#Pretendard-Bold-65" x="180.761719"/>
+     <use xlink:href="#Pretendard-Bold-61" x="238.183594"/>
+     <use xlink:href="#Pretendard-Bold-6c" x="293.945312"/>
+     <use xlink:href="#Pretendard-Bold-20" x="319.628906"/>
+     <use xlink:href="#Pretendard-Bold-31" x="342.675781"/>
+     <use xlink:href="#Pretendard-Bold-36" x="389.550781"/>
+     <use xlink:href="#Pretendard-Bold-2e" x="453.808594"/>
+     <use xlink:href="#Pretendard-Bold-37" x="482.03125"/>
+     <use xlink:href="#Pretendard-Bold-25" x="539.550781"/>
+    </g>
+   </g>
+   <g id="text_14">
     <!-- 350 -->
     <g transform="translate(215.878453 12.997656) scale(0.082 -0.082)">
      <defs>
@@ -992,7 +935,7 @@ L 339.647831 36.593699
 z
 " style="fill: #dddddd; stroke: #ffffff; stroke-width: 0.9; stroke-linejoin: miter"/>
    </g>
-   <g id="text_9">
+   <g id="text_15">
     <!-- n=852 -->
     <g transform="translate(330.726579 64.720357) scale(0.06 -0.06)">
      <defs>
@@ -1046,97 +989,98 @@ z
      <use xlink:href="#Pretendard-Regular-32" x="238.671875"/>
     </g>
    </g>
-   <g id="text_10">
-    <!-- real-first 74.1% -->
-    <g style="fill: #0072b2" transform="translate(320.421344 118.165455) scale(0.0525 -0.0525)">
+   <g id="text_16">
+    <!-- S1 74.1% -->
+    <g style="fill: #0072b2" transform="translate(303.435534 118.076587) scale(0.049 -0.049)">
+     <use xlink:href="#Pretendard-Bold-53"/>
+     <use xlink:href="#Pretendard-Bold-31" x="62.988281"/>
+     <use xlink:href="#Pretendard-Bold-20" x="109.863281"/>
+     <use xlink:href="#Pretendard-Bold-37" x="132.910156"/>
+     <use xlink:href="#Pretendard-Bold-34" x="190.429688"/>
+     <use xlink:href="#Pretendard-Bold-2e" x="256.152344"/>
+     <use xlink:href="#Pretendard-Bold-31" x="284.375"/>
+     <use xlink:href="#Pretendard-Bold-25" x="331.25"/>
+    </g>
+   </g>
+   <g id="text_17">
+    <!-- S2 25.9% -->
+    <g style="fill: #cc79a7" transform="translate(354.140491 118.076587) scale(0.049 -0.049)">
      <defs>
-      <path id="Pretendard-Bold-34" d="M 281 800 
-L 2481 800 
-L 2481 0 
-L 3375 0 
-L 3375 800 
-L 3950 800 
-L 3950 1556 
-L 3375 1556 
-L 3375 4525 
-L 2194 4525 
-L 281 1544 
-L 281 800 
+      <path id="Pretendard-Bold-39" d="M 2006 4588 
+C 981 4594 294 3931 294 3019 
+C 300 2175 900 1563 1713 1563 
+C 2219 1563 2663 1800 2875 2200 
+L 2913 2200 
+C 2913 1294 2588 744 1969 744 
+C 1606 744 1344 944 1269 1275 
+L 344 1275 
+C 438 506 1056 -63 1969 -63 
+C 3106 -63 3838 844 3831 2381 
+C 3831 4025 2944 4581 2006 4588 
 z
-M 1231 1556 
-L 1231 1594 
-L 2450 3494 
-L 2494 3494 
-L 2494 1556 
-L 1231 1556 
-z
-" transform="scale(0.015625)"/>
-      <path id="Pretendard-Bold-31" d="M 2306 4525 
-L 1419 4525 
-L 300 3813 
-L 300 2981 
-L 1338 3631 
-L 1363 3631 
-L 1363 0 
-L 2306 0 
-L 2306 4525 
+M 2013 3850 
+C 2475 3850 2813 3481 2819 3050 
+C 2819 2613 2463 2250 2006 2250 
+C 1544 2250 1213 2600 1213 3044 
+C 1206 3494 1550 3850 2013 3850 
 z
 " transform="scale(0.015625)"/>
      </defs>
-     <use xlink:href="#Pretendard-Bold-72"/>
-     <use xlink:href="#Pretendard-Bold-65" x="38.964844"/>
-     <use xlink:href="#Pretendard-Bold-61" x="96.386719"/>
-     <use xlink:href="#Pretendard-Bold-6c" x="152.148438"/>
-     <use xlink:href="#Pretendard-Bold-2d" x="177.832031"/>
-     <use xlink:href="#Pretendard-Bold-66" x="222.753906"/>
-     <use xlink:href="#Pretendard-Bold-69" x="259.472656"/>
-     <use xlink:href="#Pretendard-Bold-72" x="285.15625"/>
-     <use xlink:href="#Pretendard-Bold-73" x="324.121094"/>
-     <use xlink:href="#Pretendard-Bold-74" x="378.027344"/>
-     <use xlink:href="#Pretendard-Bold-20" x="415.039062"/>
-     <use xlink:href="#Pretendard-Bold-37" x="438.085938"/>
-     <use xlink:href="#Pretendard-Bold-34" x="495.605469"/>
-     <use xlink:href="#Pretendard-Bold-2e" x="561.328125"/>
-     <use xlink:href="#Pretendard-Bold-31" x="589.550781"/>
-     <use xlink:href="#Pretendard-Bold-25" x="636.425781"/>
+     <use xlink:href="#Pretendard-Bold-53"/>
+     <use xlink:href="#Pretendard-Bold-32" x="62.988281"/>
+     <use xlink:href="#Pretendard-Bold-20" x="124.023438"/>
+     <use xlink:href="#Pretendard-Bold-32" x="147.070312"/>
+     <use xlink:href="#Pretendard-Bold-35" x="208.105469"/>
+     <use xlink:href="#Pretendard-Bold-2e" x="270.800781"/>
+     <use xlink:href="#Pretendard-Bold-39" x="299.023438"/>
+     <use xlink:href="#Pretendard-Bold-25" x="363.28125"/>
     </g>
    </g>
-   <g id="text_11">
-    <!-- reconciled 85.5% of prediction -->
-    <g style="fill: #009e73" transform="translate(301.363434 125.993971) scale(0.0525 -0.0525)">
-     <use xlink:href="#Pretendard-Bold-72"/>
-     <use xlink:href="#Pretendard-Bold-65" x="38.964844"/>
-     <use xlink:href="#Pretendard-Bold-63" x="96.386719"/>
-     <use xlink:href="#Pretendard-Bold-6f" x="152.734375"/>
-     <use xlink:href="#Pretendard-Bold-6e" x="211.71875"/>
-     <use xlink:href="#Pretendard-Bold-63" x="271.484375"/>
-     <use xlink:href="#Pretendard-Bold-69" x="327.832031"/>
-     <use xlink:href="#Pretendard-Bold-6c" x="353.515625"/>
-     <use xlink:href="#Pretendard-Bold-65" x="379.199219"/>
-     <use xlink:href="#Pretendard-Bold-64" x="436.621094"/>
-     <use xlink:href="#Pretendard-Bold-20" x="497.753906"/>
-     <use xlink:href="#Pretendard-Bold-38" x="520.800781"/>
-     <use xlink:href="#Pretendard-Bold-35" x="585.15625"/>
-     <use xlink:href="#Pretendard-Bold-2e" x="647.851562"/>
-     <use xlink:href="#Pretendard-Bold-35" x="676.074219"/>
-     <use xlink:href="#Pretendard-Bold-25" x="738.769531"/>
-     <use xlink:href="#Pretendard-Bold-20" x="834.765625"/>
-     <use xlink:href="#Pretendard-Bold-6f" x="857.8125"/>
-     <use xlink:href="#Pretendard-Bold-66" x="916.796875"/>
-     <use xlink:href="#Pretendard-Bold-20" x="953.515625"/>
-     <use xlink:href="#Pretendard-Bold-70" x="976.5625"/>
-     <use xlink:href="#Pretendard-Bold-72" x="1037.402344"/>
-     <use xlink:href="#Pretendard-Bold-65" x="1076.367188"/>
-     <use xlink:href="#Pretendard-Bold-64" x="1133.789062"/>
-     <use xlink:href="#Pretendard-Bold-69" x="1194.921875"/>
-     <use xlink:href="#Pretendard-Bold-63" x="1220.605469"/>
-     <use xlink:href="#Pretendard-Bold-74" x="1276.953125"/>
-     <use xlink:href="#Pretendard-Bold-69" x="1313.964844"/>
-     <use xlink:href="#Pretendard-Bold-6f" x="1339.648438"/>
-     <use xlink:href="#Pretendard-Bold-6e" x="1398.632812"/>
+   <g id="text_18">
+    <!-- S3 44.3% -->
+    <g style="fill: #009e73" transform="translate(296.394378 125.800103) scale(0.049 -0.049)">
+     <use xlink:href="#Pretendard-Bold-53"/>
+     <use xlink:href="#Pretendard-Bold-33" x="62.988281"/>
+     <use xlink:href="#Pretendard-Bold-20" x="126.855469"/>
+     <use xlink:href="#Pretendard-Bold-34" x="149.902344"/>
+     <use xlink:href="#Pretendard-Bold-34" x="215.625"/>
+     <use xlink:href="#Pretendard-Bold-2e" x="281.347656"/>
+     <use xlink:href="#Pretendard-Bold-33" x="309.570312"/>
+     <use xlink:href="#Pretendard-Bold-25" x="373.4375"/>
     </g>
    </g>
-   <g id="text_12">
+   <g id="text_19">
+    <!-- S4 41.2% -->
+    <g style="fill: #e69f00" transform="translate(328.632782 125.800103) scale(0.049 -0.049)">
+     <use xlink:href="#Pretendard-Bold-53"/>
+     <use xlink:href="#Pretendard-Bold-34" x="62.988281"/>
+     <use xlink:href="#Pretendard-Bold-20" x="128.710938"/>
+     <use xlink:href="#Pretendard-Bold-34" x="151.757812"/>
+     <use xlink:href="#Pretendard-Bold-31" x="217.480469"/>
+     <use xlink:href="#Pretendard-Bold-2e" x="264.355469"/>
+     <use xlink:href="#Pretendard-Bold-32" x="292.578125"/>
+     <use xlink:href="#Pretendard-Bold-25" x="353.613281"/>
+    </g>
+   </g>
+   <g id="text_20">
+    <!-- no real 14.5% -->
+    <g style="fill: #777777" transform="translate(355.666084 125.800103) scale(0.049 -0.049)">
+     <use xlink:href="#Pretendard-Bold-6e"/>
+     <use xlink:href="#Pretendard-Bold-6f" x="59.765625"/>
+     <use xlink:href="#Pretendard-Bold-20" x="118.75"/>
+     <use xlink:href="#Pretendard-Bold-72" x="141.796875"/>
+     <use xlink:href="#Pretendard-Bold-65" x="180.761719"/>
+     <use xlink:href="#Pretendard-Bold-61" x="238.183594"/>
+     <use xlink:href="#Pretendard-Bold-6c" x="293.945312"/>
+     <use xlink:href="#Pretendard-Bold-20" x="319.628906"/>
+     <use xlink:href="#Pretendard-Bold-31" x="342.675781"/>
+     <use xlink:href="#Pretendard-Bold-34" x="389.550781"/>
+     <use xlink:href="#Pretendard-Bold-2e" x="455.273438"/>
+     <use xlink:href="#Pretendard-Bold-35" x="483.496094"/>
+     <use xlink:href="#Pretendard-Bold-25" x="546.191406"/>
+    </g>
+   </g>
+   <g id="text_21">
     <!-- 550 -->
     <g transform="translate(332.312032 12.997656) scale(0.082 -0.082)">
      <use xlink:href="#Pretendard-Regular-35"/>
@@ -1237,7 +1181,7 @@ L 455.997489 36.593699
 z
 " style="fill: #dddddd; stroke: #ffffff; stroke-width: 0.9; stroke-linejoin: miter"/>
    </g>
-   <g id="text_13">
+   <g id="text_22">
     <!-- n=816 -->
     <g transform="translate(447.471861 64.720357) scale(0.06 -0.06)">
      <defs>
@@ -1268,63 +1212,77 @@ z
      <use xlink:href="#Pretendard-Regular-36" x="222.851562"/>
     </g>
    </g>
-   <g id="text_14">
-    <!-- real-first 76.1% -->
-    <g style="fill: #0072b2" transform="translate(436.809146 118.165455) scale(0.0525 -0.0525)">
-     <use xlink:href="#Pretendard-Bold-72"/>
-     <use xlink:href="#Pretendard-Bold-65" x="38.964844"/>
-     <use xlink:href="#Pretendard-Bold-61" x="96.386719"/>
-     <use xlink:href="#Pretendard-Bold-6c" x="152.148438"/>
-     <use xlink:href="#Pretendard-Bold-2d" x="177.832031"/>
-     <use xlink:href="#Pretendard-Bold-66" x="222.753906"/>
-     <use xlink:href="#Pretendard-Bold-69" x="259.472656"/>
-     <use xlink:href="#Pretendard-Bold-72" x="285.15625"/>
-     <use xlink:href="#Pretendard-Bold-73" x="324.121094"/>
-     <use xlink:href="#Pretendard-Bold-74" x="378.027344"/>
-     <use xlink:href="#Pretendard-Bold-20" x="415.039062"/>
-     <use xlink:href="#Pretendard-Bold-37" x="438.085938"/>
-     <use xlink:href="#Pretendard-Bold-36" x="495.605469"/>
-     <use xlink:href="#Pretendard-Bold-2e" x="559.863281"/>
-     <use xlink:href="#Pretendard-Bold-31" x="588.085938"/>
-     <use xlink:href="#Pretendard-Bold-25" x="634.960938"/>
+   <g id="text_23">
+    <!-- S1 76.1% -->
+    <g style="fill: #0072b2" transform="translate(419.820793 118.076587) scale(0.049 -0.049)">
+     <use xlink:href="#Pretendard-Bold-53"/>
+     <use xlink:href="#Pretendard-Bold-31" x="62.988281"/>
+     <use xlink:href="#Pretendard-Bold-20" x="109.863281"/>
+     <use xlink:href="#Pretendard-Bold-37" x="132.910156"/>
+     <use xlink:href="#Pretendard-Bold-36" x="190.429688"/>
+     <use xlink:href="#Pretendard-Bold-2e" x="254.6875"/>
+     <use xlink:href="#Pretendard-Bold-31" x="282.910156"/>
+     <use xlink:href="#Pretendard-Bold-25" x="329.785156"/>
     </g>
    </g>
-   <g id="text_15">
-    <!-- reconciled 82.1% of prediction -->
-    <g style="fill: #009e73" transform="translate(418.172467 125.993971) scale(0.0525 -0.0525)">
-     <use xlink:href="#Pretendard-Bold-72"/>
-     <use xlink:href="#Pretendard-Bold-65" x="38.964844"/>
-     <use xlink:href="#Pretendard-Bold-63" x="96.386719"/>
-     <use xlink:href="#Pretendard-Bold-6f" x="152.734375"/>
-     <use xlink:href="#Pretendard-Bold-6e" x="211.71875"/>
-     <use xlink:href="#Pretendard-Bold-63" x="271.484375"/>
-     <use xlink:href="#Pretendard-Bold-69" x="327.832031"/>
-     <use xlink:href="#Pretendard-Bold-6c" x="353.515625"/>
-     <use xlink:href="#Pretendard-Bold-65" x="379.199219"/>
-     <use xlink:href="#Pretendard-Bold-64" x="436.621094"/>
-     <use xlink:href="#Pretendard-Bold-20" x="497.753906"/>
-     <use xlink:href="#Pretendard-Bold-38" x="520.800781"/>
-     <use xlink:href="#Pretendard-Bold-32" x="585.15625"/>
-     <use xlink:href="#Pretendard-Bold-2e" x="646.191406"/>
-     <use xlink:href="#Pretendard-Bold-31" x="674.414062"/>
-     <use xlink:href="#Pretendard-Bold-25" x="721.289062"/>
-     <use xlink:href="#Pretendard-Bold-20" x="817.285156"/>
-     <use xlink:href="#Pretendard-Bold-6f" x="840.332031"/>
-     <use xlink:href="#Pretendard-Bold-66" x="899.316406"/>
-     <use xlink:href="#Pretendard-Bold-20" x="936.035156"/>
-     <use xlink:href="#Pretendard-Bold-70" x="959.082031"/>
-     <use xlink:href="#Pretendard-Bold-72" x="1019.921875"/>
-     <use xlink:href="#Pretendard-Bold-65" x="1058.886719"/>
-     <use xlink:href="#Pretendard-Bold-64" x="1116.308594"/>
-     <use xlink:href="#Pretendard-Bold-69" x="1177.441406"/>
-     <use xlink:href="#Pretendard-Bold-63" x="1203.125"/>
-     <use xlink:href="#Pretendard-Bold-74" x="1259.472656"/>
-     <use xlink:href="#Pretendard-Bold-69" x="1296.484375"/>
-     <use xlink:href="#Pretendard-Bold-6f" x="1322.167969"/>
-     <use xlink:href="#Pretendard-Bold-6e" x="1381.152344"/>
+   <g id="text_24">
+    <!-- S2 23.9% -->
+    <g style="fill: #cc79a7" transform="translate(470.461437 118.076587) scale(0.049 -0.049)">
+     <use xlink:href="#Pretendard-Bold-53"/>
+     <use xlink:href="#Pretendard-Bold-32" x="62.988281"/>
+     <use xlink:href="#Pretendard-Bold-20" x="124.023438"/>
+     <use xlink:href="#Pretendard-Bold-32" x="147.070312"/>
+     <use xlink:href="#Pretendard-Bold-33" x="208.105469"/>
+     <use xlink:href="#Pretendard-Bold-2e" x="271.972656"/>
+     <use xlink:href="#Pretendard-Bold-39" x="300.195312"/>
+     <use xlink:href="#Pretendard-Bold-25" x="364.453125"/>
     </g>
    </g>
-   <g id="text_16">
+   <g id="text_25">
+    <!-- S3 35.9% -->
+    <g style="fill: #009e73" transform="translate(412.85352 125.800103) scale(0.049 -0.049)">
+     <use xlink:href="#Pretendard-Bold-53"/>
+     <use xlink:href="#Pretendard-Bold-33" x="62.988281"/>
+     <use xlink:href="#Pretendard-Bold-20" x="126.855469"/>
+     <use xlink:href="#Pretendard-Bold-33" x="149.902344"/>
+     <use xlink:href="#Pretendard-Bold-35" x="213.769531"/>
+     <use xlink:href="#Pretendard-Bold-2e" x="276.464844"/>
+     <use xlink:href="#Pretendard-Bold-39" x="304.6875"/>
+     <use xlink:href="#Pretendard-Bold-25" x="368.945312"/>
+    </g>
+   </g>
+   <g id="text_26">
+    <!-- S4 46.2% -->
+    <g style="fill: #e69f00" transform="translate(444.556369 125.800103) scale(0.049 -0.049)">
+     <use xlink:href="#Pretendard-Bold-53"/>
+     <use xlink:href="#Pretendard-Bold-34" x="62.988281"/>
+     <use xlink:href="#Pretendard-Bold-20" x="128.710938"/>
+     <use xlink:href="#Pretendard-Bold-34" x="151.757812"/>
+     <use xlink:href="#Pretendard-Bold-36" x="217.480469"/>
+     <use xlink:href="#Pretendard-Bold-2e" x="281.738281"/>
+     <use xlink:href="#Pretendard-Bold-32" x="309.960938"/>
+     <use xlink:href="#Pretendard-Bold-25" x="370.996094"/>
+    </g>
+   </g>
+   <g id="text_27">
+    <!-- no real 17.9% -->
+    <g style="fill: #777777" transform="translate(472.178437 125.800103) scale(0.049 -0.049)">
+     <use xlink:href="#Pretendard-Bold-6e"/>
+     <use xlink:href="#Pretendard-Bold-6f" x="59.765625"/>
+     <use xlink:href="#Pretendard-Bold-20" x="118.75"/>
+     <use xlink:href="#Pretendard-Bold-72" x="141.796875"/>
+     <use xlink:href="#Pretendard-Bold-65" x="180.761719"/>
+     <use xlink:href="#Pretendard-Bold-61" x="238.183594"/>
+     <use xlink:href="#Pretendard-Bold-6c" x="293.945312"/>
+     <use xlink:href="#Pretendard-Bold-20" x="319.628906"/>
+     <use xlink:href="#Pretendard-Bold-31" x="342.675781"/>
+     <use xlink:href="#Pretendard-Bold-37" x="389.550781"/>
+     <use xlink:href="#Pretendard-Bold-2e" x="447.070312"/>
+     <use xlink:href="#Pretendard-Bold-39" x="475.292969"/>
+     <use xlink:href="#Pretendard-Bold-25" x="539.550781"/>
+    </g>
+   </g>
+   <g id="text_28">
     <!-- Interactive -->
     <g transform="translate(436.532095 12.997656) scale(0.082 -0.082)">
      <defs>
@@ -1573,7 +1531,7 @@ L 106.948518 202.606382
 z
 " style="fill: #dddddd; stroke: #ffffff; stroke-width: 0.9; stroke-linejoin: miter"/>
    </g>
-   <g id="text_17">
+   <g id="text_29">
     <!-- n=533 -->
     <g transform="translate(97.903983 230.73304) scale(0.06 -0.06)">
      <use xlink:href="#Pretendard-Regular-6e"/>
@@ -1583,60 +1541,73 @@ z
      <use xlink:href="#Pretendard-Regular-33" x="239.746094"/>
     </g>
    </g>
-   <g id="text_18">
-    <!-- real-first 84.2% -->
-    <g style="fill: #0072b2" transform="translate(87.17078 284.178138) scale(0.0525 -0.0525)">
-     <use xlink:href="#Pretendard-Bold-72"/>
-     <use xlink:href="#Pretendard-Bold-65" x="38.964844"/>
-     <use xlink:href="#Pretendard-Bold-61" x="96.386719"/>
-     <use xlink:href="#Pretendard-Bold-6c" x="152.148438"/>
-     <use xlink:href="#Pretendard-Bold-2d" x="177.832031"/>
-     <use xlink:href="#Pretendard-Bold-66" x="222.753906"/>
-     <use xlink:href="#Pretendard-Bold-69" x="259.472656"/>
-     <use xlink:href="#Pretendard-Bold-72" x="285.15625"/>
-     <use xlink:href="#Pretendard-Bold-73" x="324.121094"/>
-     <use xlink:href="#Pretendard-Bold-74" x="378.027344"/>
-     <use xlink:href="#Pretendard-Bold-20" x="415.039062"/>
-     <use xlink:href="#Pretendard-Bold-38" x="438.085938"/>
-     <use xlink:href="#Pretendard-Bold-34" x="502.441406"/>
-     <use xlink:href="#Pretendard-Bold-2e" x="568.164062"/>
-     <use xlink:href="#Pretendard-Bold-32" x="596.386719"/>
-     <use xlink:href="#Pretendard-Bold-25" x="657.421875"/>
+   <g id="text_30">
+    <!-- S1 84.2% -->
+    <g style="fill: #0072b2" transform="translate(70.221719 284.08927) scale(0.049 -0.049)">
+     <use xlink:href="#Pretendard-Bold-53"/>
+     <use xlink:href="#Pretendard-Bold-31" x="62.988281"/>
+     <use xlink:href="#Pretendard-Bold-20" x="109.863281"/>
+     <use xlink:href="#Pretendard-Bold-38" x="132.910156"/>
+     <use xlink:href="#Pretendard-Bold-34" x="197.265625"/>
+     <use xlink:href="#Pretendard-Bold-2e" x="262.988281"/>
+     <use xlink:href="#Pretendard-Bold-32" x="291.210938"/>
+     <use xlink:href="#Pretendard-Bold-25" x="352.246094"/>
     </g>
    </g>
-   <g id="text_19">
-    <!-- reconciled 92.9% of prediction -->
-    <g style="fill: #009e73" transform="translate(68.669451 292.006653) scale(0.0525 -0.0525)">
-     <use xlink:href="#Pretendard-Bold-72"/>
-     <use xlink:href="#Pretendard-Bold-65" x="38.964844"/>
-     <use xlink:href="#Pretendard-Bold-63" x="96.386719"/>
-     <use xlink:href="#Pretendard-Bold-6f" x="152.734375"/>
-     <use xlink:href="#Pretendard-Bold-6e" x="211.71875"/>
-     <use xlink:href="#Pretendard-Bold-63" x="271.484375"/>
-     <use xlink:href="#Pretendard-Bold-69" x="327.832031"/>
-     <use xlink:href="#Pretendard-Bold-6c" x="353.515625"/>
-     <use xlink:href="#Pretendard-Bold-65" x="379.199219"/>
-     <use xlink:href="#Pretendard-Bold-64" x="436.621094"/>
-     <use xlink:href="#Pretendard-Bold-20" x="497.753906"/>
-     <use xlink:href="#Pretendard-Bold-39" x="520.800781"/>
-     <use xlink:href="#Pretendard-Bold-32" x="585.058594"/>
-     <use xlink:href="#Pretendard-Bold-2e" x="646.09375"/>
-     <use xlink:href="#Pretendard-Bold-39" x="674.316406"/>
-     <use xlink:href="#Pretendard-Bold-25" x="738.574219"/>
-     <use xlink:href="#Pretendard-Bold-20" x="834.570312"/>
-     <use xlink:href="#Pretendard-Bold-6f" x="857.617188"/>
-     <use xlink:href="#Pretendard-Bold-66" x="916.601562"/>
-     <use xlink:href="#Pretendard-Bold-20" x="953.320312"/>
-     <use xlink:href="#Pretendard-Bold-70" x="976.367188"/>
-     <use xlink:href="#Pretendard-Bold-72" x="1037.207031"/>
-     <use xlink:href="#Pretendard-Bold-65" x="1076.171875"/>
-     <use xlink:href="#Pretendard-Bold-64" x="1133.59375"/>
-     <use xlink:href="#Pretendard-Bold-69" x="1194.726562"/>
-     <use xlink:href="#Pretendard-Bold-63" x="1220.410156"/>
-     <use xlink:href="#Pretendard-Bold-74" x="1276.757812"/>
-     <use xlink:href="#Pretendard-Bold-69" x="1313.769531"/>
-     <use xlink:href="#Pretendard-Bold-6f" x="1339.453125"/>
-     <use xlink:href="#Pretendard-Bold-6e" x="1398.4375"/>
+   <g id="text_31">
+    <!-- S2 15.8% -->
+    <g style="fill: #cc79a7" transform="translate(121.785707 284.08927) scale(0.049 -0.049)">
+     <use xlink:href="#Pretendard-Bold-53"/>
+     <use xlink:href="#Pretendard-Bold-32" x="62.988281"/>
+     <use xlink:href="#Pretendard-Bold-20" x="124.023438"/>
+     <use xlink:href="#Pretendard-Bold-31" x="147.070312"/>
+     <use xlink:href="#Pretendard-Bold-35" x="193.945312"/>
+     <use xlink:href="#Pretendard-Bold-2e" x="256.640625"/>
+     <use xlink:href="#Pretendard-Bold-38" x="284.863281"/>
+     <use xlink:href="#Pretendard-Bold-25" x="349.21875"/>
+    </g>
+   </g>
+   <g id="text_32">
+    <!-- S3 76.2% -->
+    <g style="fill: #009e73" transform="translate(64.001313 291.812786) scale(0.049 -0.049)">
+     <use xlink:href="#Pretendard-Bold-53"/>
+     <use xlink:href="#Pretendard-Bold-33" x="62.988281"/>
+     <use xlink:href="#Pretendard-Bold-20" x="126.855469"/>
+     <use xlink:href="#Pretendard-Bold-37" x="149.902344"/>
+     <use xlink:href="#Pretendard-Bold-36" x="207.421875"/>
+     <use xlink:href="#Pretendard-Bold-2e" x="271.679688"/>
+     <use xlink:href="#Pretendard-Bold-32" x="299.902344"/>
+     <use xlink:href="#Pretendard-Bold-25" x="360.9375"/>
+    </g>
+   </g>
+   <g id="text_33">
+    <!-- S4 16.7% -->
+    <g style="fill: #e69f00" transform="translate(96.055201 291.812786) scale(0.049 -0.049)">
+     <use xlink:href="#Pretendard-Bold-53"/>
+     <use xlink:href="#Pretendard-Bold-34" x="62.988281"/>
+     <use xlink:href="#Pretendard-Bold-20" x="128.710938"/>
+     <use xlink:href="#Pretendard-Bold-31" x="151.757812"/>
+     <use xlink:href="#Pretendard-Bold-36" x="198.632812"/>
+     <use xlink:href="#Pretendard-Bold-2e" x="262.890625"/>
+     <use xlink:href="#Pretendard-Bold-37" x="291.113281"/>
+     <use xlink:href="#Pretendard-Bold-25" x="348.632812"/>
+    </g>
+   </g>
+   <g id="text_34">
+    <!-- no real 7.1% -->
+    <g style="fill: #777777" transform="translate(124.703972 291.812786) scale(0.049 -0.049)">
+     <use xlink:href="#Pretendard-Bold-6e"/>
+     <use xlink:href="#Pretendard-Bold-6f" x="59.765625"/>
+     <use xlink:href="#Pretendard-Bold-20" x="118.75"/>
+     <use xlink:href="#Pretendard-Bold-72" x="141.796875"/>
+     <use xlink:href="#Pretendard-Bold-65" x="180.761719"/>
+     <use xlink:href="#Pretendard-Bold-61" x="238.183594"/>
+     <use xlink:href="#Pretendard-Bold-6c" x="293.945312"/>
+     <use xlink:href="#Pretendard-Bold-20" x="319.628906"/>
+     <use xlink:href="#Pretendard-Bold-37" x="342.675781"/>
+     <use xlink:href="#Pretendard-Bold-2e" x="400.195312"/>
+     <use xlink:href="#Pretendard-Bold-31" x="428.417969"/>
+     <use xlink:href="#Pretendard-Bold-25" x="475.292969"/>
     </g>
    </g>
   </g>
@@ -1750,7 +1721,7 @@ L 223.298167 202.606382
 z
 " style="fill: #dddddd; stroke: #ffffff; stroke-width: 0.9; stroke-linejoin: miter"/>
    </g>
-   <g id="text_20">
+   <g id="text_35">
     <!-- n=793 -->
     <g transform="translate(214.400359 230.73304) scale(0.06 -0.06)">
      <use xlink:href="#Pretendard-Regular-6e"/>
@@ -1760,76 +1731,72 @@ z
      <use xlink:href="#Pretendard-Regular-33" x="234.863281"/>
     </g>
    </g>
-   <g id="text_21">
-    <!-- real-first 88.7% -->
-    <g style="fill: #0072b2" transform="translate(203.648406 284.178138) scale(0.0525 -0.0525)">
-     <use xlink:href="#Pretendard-Bold-72"/>
-     <use xlink:href="#Pretendard-Bold-65" x="38.964844"/>
-     <use xlink:href="#Pretendard-Bold-61" x="96.386719"/>
-     <use xlink:href="#Pretendard-Bold-6c" x="152.148438"/>
-     <use xlink:href="#Pretendard-Bold-2d" x="177.832031"/>
-     <use xlink:href="#Pretendard-Bold-66" x="222.753906"/>
-     <use xlink:href="#Pretendard-Bold-69" x="259.472656"/>
-     <use xlink:href="#Pretendard-Bold-72" x="285.15625"/>
-     <use xlink:href="#Pretendard-Bold-73" x="324.121094"/>
-     <use xlink:href="#Pretendard-Bold-74" x="378.027344"/>
-     <use xlink:href="#Pretendard-Bold-20" x="415.039062"/>
-     <use xlink:href="#Pretendard-Bold-38" x="438.085938"/>
-     <use xlink:href="#Pretendard-Bold-38" x="502.441406"/>
-     <use xlink:href="#Pretendard-Bold-2e" x="566.796875"/>
-     <use xlink:href="#Pretendard-Bold-37" x="595.019531"/>
-     <use xlink:href="#Pretendard-Bold-25" x="652.539062"/>
+   <g id="text_36">
+    <!-- S1 88.7% -->
+    <g style="fill: #0072b2" transform="translate(186.690814 284.08927) scale(0.049 -0.049)">
+     <use xlink:href="#Pretendard-Bold-53"/>
+     <use xlink:href="#Pretendard-Bold-31" x="62.988281"/>
+     <use xlink:href="#Pretendard-Bold-20" x="109.863281"/>
+     <use xlink:href="#Pretendard-Bold-38" x="132.910156"/>
+     <use xlink:href="#Pretendard-Bold-38" x="197.265625"/>
+     <use xlink:href="#Pretendard-Bold-2e" x="261.621094"/>
+     <use xlink:href="#Pretendard-Bold-37" x="289.84375"/>
+     <use xlink:href="#Pretendard-Bold-25" x="347.363281"/>
     </g>
    </g>
-   <g id="text_22">
-    <!-- reconciled 100.0% of prediction -->
-    <g style="fill: #009e73" transform="translate(183.565925 292.006653) scale(0.0525 -0.0525)">
-     <defs>
-      <path id="Pretendard-Bold-30" d="M 2113 -63 
-C 3244 -63 3931 775 3931 2263 
-C 3931 3738 3244 4588 2113 4588 
-C 981 4588 294 3744 294 2263 
-C 294 781 981 -63 2113 -63 
-z
-M 2113 713 
-C 1588 713 1250 1219 1256 2263 
-C 1256 3294 1588 3819 2113 3819 
-C 2638 3819 2969 3294 2969 2263 
-C 2975 1219 2638 713 2113 713 
-z
-" transform="scale(0.015625)"/>
-     </defs>
-     <use xlink:href="#Pretendard-Bold-72"/>
-     <use xlink:href="#Pretendard-Bold-65" x="38.964844"/>
-     <use xlink:href="#Pretendard-Bold-63" x="96.386719"/>
-     <use xlink:href="#Pretendard-Bold-6f" x="152.734375"/>
-     <use xlink:href="#Pretendard-Bold-6e" x="211.71875"/>
-     <use xlink:href="#Pretendard-Bold-63" x="271.484375"/>
-     <use xlink:href="#Pretendard-Bold-69" x="327.832031"/>
-     <use xlink:href="#Pretendard-Bold-6c" x="353.515625"/>
-     <use xlink:href="#Pretendard-Bold-65" x="379.199219"/>
-     <use xlink:href="#Pretendard-Bold-64" x="436.621094"/>
-     <use xlink:href="#Pretendard-Bold-20" x="497.753906"/>
-     <use xlink:href="#Pretendard-Bold-31" x="520.800781"/>
-     <use xlink:href="#Pretendard-Bold-30" x="567.675781"/>
-     <use xlink:href="#Pretendard-Bold-30" x="633.691406"/>
-     <use xlink:href="#Pretendard-Bold-2e" x="699.707031"/>
-     <use xlink:href="#Pretendard-Bold-30" x="727.929688"/>
-     <use xlink:href="#Pretendard-Bold-25" x="793.945312"/>
-     <use xlink:href="#Pretendard-Bold-20" x="889.941406"/>
-     <use xlink:href="#Pretendard-Bold-6f" x="912.988281"/>
-     <use xlink:href="#Pretendard-Bold-66" x="971.972656"/>
-     <use xlink:href="#Pretendard-Bold-20" x="1008.691406"/>
-     <use xlink:href="#Pretendard-Bold-70" x="1031.738281"/>
-     <use xlink:href="#Pretendard-Bold-72" x="1092.578125"/>
-     <use xlink:href="#Pretendard-Bold-65" x="1131.542969"/>
-     <use xlink:href="#Pretendard-Bold-64" x="1188.964844"/>
-     <use xlink:href="#Pretendard-Bold-69" x="1250.097656"/>
-     <use xlink:href="#Pretendard-Bold-63" x="1275.78125"/>
-     <use xlink:href="#Pretendard-Bold-74" x="1332.128906"/>
-     <use xlink:href="#Pretendard-Bold-69" x="1369.140625"/>
-     <use xlink:href="#Pretendard-Bold-6f" x="1394.824219"/>
-     <use xlink:href="#Pretendard-Bold-6e" x="1453.808594"/>
+   <g id="text_37">
+    <!-- S2 11.3% -->
+    <g style="fill: #cc79a7" transform="translate(238.535021 284.08927) scale(0.049 -0.049)">
+     <use xlink:href="#Pretendard-Bold-53"/>
+     <use xlink:href="#Pretendard-Bold-32" x="62.988281"/>
+     <use xlink:href="#Pretendard-Bold-20" x="124.023438"/>
+     <use xlink:href="#Pretendard-Bold-31" x="147.070312"/>
+     <use xlink:href="#Pretendard-Bold-31" x="193.945312"/>
+     <use xlink:href="#Pretendard-Bold-2e" x="240.820312"/>
+     <use xlink:href="#Pretendard-Bold-33" x="269.042969"/>
+     <use xlink:href="#Pretendard-Bold-25" x="332.910156"/>
+    </g>
+   </g>
+   <g id="text_38">
+    <!-- S3 94.4% -->
+    <g style="fill: #009e73" transform="translate(180.03515 291.812786) scale(0.049 -0.049)">
+     <use xlink:href="#Pretendard-Bold-53"/>
+     <use xlink:href="#Pretendard-Bold-33" x="62.988281"/>
+     <use xlink:href="#Pretendard-Bold-20" x="126.855469"/>
+     <use xlink:href="#Pretendard-Bold-39" x="149.902344"/>
+     <use xlink:href="#Pretendard-Bold-34" x="214.160156"/>
+     <use xlink:href="#Pretendard-Bold-2e" x="279.882812"/>
+     <use xlink:href="#Pretendard-Bold-34" x="308.105469"/>
+     <use xlink:href="#Pretendard-Bold-25" x="373.828125"/>
+    </g>
+   </g>
+   <g id="text_39">
+    <!-- S4 5.6% -->
+    <g style="fill: #e69f00" transform="translate(213.426203 291.812786) scale(0.049 -0.049)">
+     <use xlink:href="#Pretendard-Bold-53"/>
+     <use xlink:href="#Pretendard-Bold-34" x="62.988281"/>
+     <use xlink:href="#Pretendard-Bold-20" x="128.710938"/>
+     <use xlink:href="#Pretendard-Bold-35" x="151.757812"/>
+     <use xlink:href="#Pretendard-Bold-2e" x="214.453125"/>
+     <use xlink:href="#Pretendard-Bold-36" x="242.675781"/>
+     <use xlink:href="#Pretendard-Bold-25" x="306.933594"/>
+    </g>
+   </g>
+   <g id="text_40">
+    <!-- no real 0.0% -->
+    <g style="fill: #777777" transform="translate(240.376434 291.812786) scale(0.049 -0.049)">
+     <use xlink:href="#Pretendard-Bold-6e"/>
+     <use xlink:href="#Pretendard-Bold-6f" x="59.765625"/>
+     <use xlink:href="#Pretendard-Bold-20" x="118.75"/>
+     <use xlink:href="#Pretendard-Bold-72" x="141.796875"/>
+     <use xlink:href="#Pretendard-Bold-65" x="180.761719"/>
+     <use xlink:href="#Pretendard-Bold-61" x="238.183594"/>
+     <use xlink:href="#Pretendard-Bold-6c" x="293.945312"/>
+     <use xlink:href="#Pretendard-Bold-20" x="319.628906"/>
+     <use xlink:href="#Pretendard-Bold-30" x="342.675781"/>
+     <use xlink:href="#Pretendard-Bold-2e" x="408.691406"/>
+     <use xlink:href="#Pretendard-Bold-30" x="436.914062"/>
+     <use xlink:href="#Pretendard-Bold-25" x="502.929688"/>
     </g>
    </g>
   </g>
@@ -1933,7 +1900,7 @@ L 339.647824 202.606382
 z
 " style="fill: #dddddd; stroke: #ffffff; stroke-width: 0.9; stroke-linejoin: miter"/>
    </g>
-   <g id="text_23">
+   <g id="text_41">
     <!-- n=900 -->
     <g transform="translate(330.682047 230.73304) scale(0.06 -0.06)">
      <use xlink:href="#Pretendard-Regular-6e"/>
@@ -1943,60 +1910,73 @@ z
      <use xlink:href="#Pretendard-Regular-30" x="239.257812"/>
     </g>
    </g>
-   <g id="text_24">
-    <!-- real-first 84.6% -->
-    <g style="fill: #0072b2" transform="translate(319.785192 284.178138) scale(0.0525 -0.0525)">
-     <use xlink:href="#Pretendard-Bold-72"/>
-     <use xlink:href="#Pretendard-Bold-65" x="38.964844"/>
-     <use xlink:href="#Pretendard-Bold-61" x="96.386719"/>
-     <use xlink:href="#Pretendard-Bold-6c" x="152.148438"/>
-     <use xlink:href="#Pretendard-Bold-2d" x="177.832031"/>
-     <use xlink:href="#Pretendard-Bold-66" x="222.753906"/>
-     <use xlink:href="#Pretendard-Bold-69" x="259.472656"/>
-     <use xlink:href="#Pretendard-Bold-72" x="285.15625"/>
-     <use xlink:href="#Pretendard-Bold-73" x="324.121094"/>
-     <use xlink:href="#Pretendard-Bold-74" x="378.027344"/>
-     <use xlink:href="#Pretendard-Bold-20" x="415.039062"/>
-     <use xlink:href="#Pretendard-Bold-38" x="438.085938"/>
-     <use xlink:href="#Pretendard-Bold-34" x="502.441406"/>
-     <use xlink:href="#Pretendard-Bold-2e" x="568.164062"/>
-     <use xlink:href="#Pretendard-Bold-36" x="596.386719"/>
-     <use xlink:href="#Pretendard-Bold-25" x="660.644531"/>
+   <g id="text_42">
+    <!-- S1 84.6% -->
+    <g style="fill: #0072b2" transform="translate(302.841791 284.08927) scale(0.049 -0.049)">
+     <use xlink:href="#Pretendard-Bold-53"/>
+     <use xlink:href="#Pretendard-Bold-31" x="62.988281"/>
+     <use xlink:href="#Pretendard-Bold-20" x="109.863281"/>
+     <use xlink:href="#Pretendard-Bold-38" x="132.910156"/>
+     <use xlink:href="#Pretendard-Bold-34" x="197.265625"/>
+     <use xlink:href="#Pretendard-Bold-2e" x="262.988281"/>
+     <use xlink:href="#Pretendard-Bold-36" x="291.210938"/>
+     <use xlink:href="#Pretendard-Bold-25" x="355.46875"/>
     </g>
    </g>
-   <g id="text_25">
-    <!-- reconciled 97.1% of prediction -->
-    <g style="fill: #009e73" transform="translate(301.917555 292.006653) scale(0.0525 -0.0525)">
-     <use xlink:href="#Pretendard-Bold-72"/>
-     <use xlink:href="#Pretendard-Bold-65" x="38.964844"/>
-     <use xlink:href="#Pretendard-Bold-63" x="96.386719"/>
-     <use xlink:href="#Pretendard-Bold-6f" x="152.734375"/>
-     <use xlink:href="#Pretendard-Bold-6e" x="211.71875"/>
-     <use xlink:href="#Pretendard-Bold-63" x="271.484375"/>
-     <use xlink:href="#Pretendard-Bold-69" x="327.832031"/>
-     <use xlink:href="#Pretendard-Bold-6c" x="353.515625"/>
-     <use xlink:href="#Pretendard-Bold-65" x="379.199219"/>
-     <use xlink:href="#Pretendard-Bold-64" x="436.621094"/>
-     <use xlink:href="#Pretendard-Bold-20" x="497.753906"/>
-     <use xlink:href="#Pretendard-Bold-39" x="520.800781"/>
-     <use xlink:href="#Pretendard-Bold-37" x="585.058594"/>
-     <use xlink:href="#Pretendard-Bold-2e" x="642.578125"/>
-     <use xlink:href="#Pretendard-Bold-31" x="670.800781"/>
-     <use xlink:href="#Pretendard-Bold-25" x="717.675781"/>
-     <use xlink:href="#Pretendard-Bold-20" x="813.671875"/>
-     <use xlink:href="#Pretendard-Bold-6f" x="836.71875"/>
-     <use xlink:href="#Pretendard-Bold-66" x="895.703125"/>
-     <use xlink:href="#Pretendard-Bold-20" x="932.421875"/>
-     <use xlink:href="#Pretendard-Bold-70" x="955.46875"/>
-     <use xlink:href="#Pretendard-Bold-72" x="1016.308594"/>
-     <use xlink:href="#Pretendard-Bold-65" x="1055.273438"/>
-     <use xlink:href="#Pretendard-Bold-64" x="1112.695312"/>
-     <use xlink:href="#Pretendard-Bold-69" x="1173.828125"/>
-     <use xlink:href="#Pretendard-Bold-63" x="1199.511719"/>
-     <use xlink:href="#Pretendard-Bold-74" x="1255.859375"/>
-     <use xlink:href="#Pretendard-Bold-69" x="1292.871094"/>
-     <use xlink:href="#Pretendard-Bold-6f" x="1318.554688"/>
-     <use xlink:href="#Pretendard-Bold-6e" x="1377.539062"/>
+   <g id="text_43">
+    <!-- S2 15.4% -->
+    <g style="fill: #cc79a7" transform="translate(354.451718 284.08927) scale(0.049 -0.049)">
+     <use xlink:href="#Pretendard-Bold-53"/>
+     <use xlink:href="#Pretendard-Bold-32" x="62.988281"/>
+     <use xlink:href="#Pretendard-Bold-20" x="124.023438"/>
+     <use xlink:href="#Pretendard-Bold-31" x="147.070312"/>
+     <use xlink:href="#Pretendard-Bold-35" x="193.945312"/>
+     <use xlink:href="#Pretendard-Bold-2e" x="256.640625"/>
+     <use xlink:href="#Pretendard-Bold-34" x="284.863281"/>
+     <use xlink:href="#Pretendard-Bold-25" x="350.585938"/>
+    </g>
+   </g>
+   <g id="text_44">
+    <!-- S3 59.0% -->
+    <g style="fill: #009e73" transform="translate(296.451417 291.812786) scale(0.049 -0.049)">
+     <use xlink:href="#Pretendard-Bold-53"/>
+     <use xlink:href="#Pretendard-Bold-33" x="62.988281"/>
+     <use xlink:href="#Pretendard-Bold-20" x="126.855469"/>
+     <use xlink:href="#Pretendard-Bold-35" x="149.902344"/>
+     <use xlink:href="#Pretendard-Bold-39" x="212.597656"/>
+     <use xlink:href="#Pretendard-Bold-2e" x="276.855469"/>
+     <use xlink:href="#Pretendard-Bold-30" x="305.078125"/>
+     <use xlink:href="#Pretendard-Bold-25" x="371.09375"/>
+    </g>
+   </g>
+   <g id="text_45">
+    <!-- S4 38.1% -->
+    <g style="fill: #e69f00" transform="translate(328.596415 291.812786) scale(0.049 -0.049)">
+     <use xlink:href="#Pretendard-Bold-53"/>
+     <use xlink:href="#Pretendard-Bold-34" x="62.988281"/>
+     <use xlink:href="#Pretendard-Bold-20" x="128.710938"/>
+     <use xlink:href="#Pretendard-Bold-33" x="151.757812"/>
+     <use xlink:href="#Pretendard-Bold-38" x="215.625"/>
+     <use xlink:href="#Pretendard-Bold-2e" x="279.980469"/>
+     <use xlink:href="#Pretendard-Bold-31" x="308.203125"/>
+     <use xlink:href="#Pretendard-Bold-25" x="355.078125"/>
+    </g>
+   </g>
+   <g id="text_46">
+    <!-- no real 2.9% -->
+    <g style="fill: #777777" transform="translate(356.891084 291.812786) scale(0.049 -0.049)">
+     <use xlink:href="#Pretendard-Bold-6e"/>
+     <use xlink:href="#Pretendard-Bold-6f" x="59.765625"/>
+     <use xlink:href="#Pretendard-Bold-20" x="118.75"/>
+     <use xlink:href="#Pretendard-Bold-72" x="141.796875"/>
+     <use xlink:href="#Pretendard-Bold-65" x="180.761719"/>
+     <use xlink:href="#Pretendard-Bold-61" x="238.183594"/>
+     <use xlink:href="#Pretendard-Bold-6c" x="293.945312"/>
+     <use xlink:href="#Pretendard-Bold-20" x="319.628906"/>
+     <use xlink:href="#Pretendard-Bold-32" x="342.675781"/>
+     <use xlink:href="#Pretendard-Bold-2e" x="403.710938"/>
+     <use xlink:href="#Pretendard-Bold-39" x="431.933594"/>
+     <use xlink:href="#Pretendard-Bold-25" x="496.191406"/>
     </g>
    </g>
   </g>
@@ -2100,7 +2080,7 @@ L 455.997488 202.606382
 z
 " style="fill: #dddddd; stroke: #ffffff; stroke-width: 0.9; stroke-linejoin: miter"/>
    </g>
-   <g id="text_26">
+   <g id="text_47">
     <!-- n=774 -->
     <g transform="translate(447.263736 230.73304) scale(0.06 -0.06)">
      <defs>
@@ -2133,64 +2113,77 @@ z
      <use xlink:href="#Pretendard-Regular-34" x="228.710938"/>
     </g>
    </g>
-   <g id="text_27">
-    <!-- real-first 78.2% -->
-    <g style="fill: #0072b2" transform="translate(436.435084 284.178138) scale(0.0525 -0.0525)">
-     <use xlink:href="#Pretendard-Bold-72"/>
-     <use xlink:href="#Pretendard-Bold-65" x="38.964844"/>
-     <use xlink:href="#Pretendard-Bold-61" x="96.386719"/>
-     <use xlink:href="#Pretendard-Bold-6c" x="152.148438"/>
-     <use xlink:href="#Pretendard-Bold-2d" x="177.832031"/>
-     <use xlink:href="#Pretendard-Bold-66" x="222.753906"/>
-     <use xlink:href="#Pretendard-Bold-69" x="259.472656"/>
-     <use xlink:href="#Pretendard-Bold-72" x="285.15625"/>
-     <use xlink:href="#Pretendard-Bold-73" x="324.121094"/>
-     <use xlink:href="#Pretendard-Bold-74" x="378.027344"/>
-     <use xlink:href="#Pretendard-Bold-20" x="415.039062"/>
-     <use xlink:href="#Pretendard-Bold-37" x="438.085938"/>
-     <use xlink:href="#Pretendard-Bold-38" x="495.605469"/>
-     <use xlink:href="#Pretendard-Bold-2e" x="559.960938"/>
-     <use xlink:href="#Pretendard-Bold-32" x="588.183594"/>
-     <use xlink:href="#Pretendard-Bold-25" x="649.21875"/>
+   <g id="text_48">
+    <!-- S1 78.2% -->
+    <g style="fill: #0072b2" transform="translate(419.471668 284.08927) scale(0.049 -0.049)">
+     <use xlink:href="#Pretendard-Bold-53"/>
+     <use xlink:href="#Pretendard-Bold-31" x="62.988281"/>
+     <use xlink:href="#Pretendard-Bold-20" x="109.863281"/>
+     <use xlink:href="#Pretendard-Bold-37" x="132.910156"/>
+     <use xlink:href="#Pretendard-Bold-38" x="190.429688"/>
+     <use xlink:href="#Pretendard-Bold-2e" x="254.785156"/>
+     <use xlink:href="#Pretendard-Bold-32" x="283.007812"/>
+     <use xlink:href="#Pretendard-Bold-25" x="344.042969"/>
     </g>
    </g>
-   <g id="text_28">
-    <!-- reconciled 94.7% of prediction -->
-    <g style="fill: #009e73" transform="translate(417.772564 292.006653) scale(0.0525 -0.0525)">
-     <use xlink:href="#Pretendard-Bold-72"/>
-     <use xlink:href="#Pretendard-Bold-65" x="38.964844"/>
-     <use xlink:href="#Pretendard-Bold-63" x="96.386719"/>
-     <use xlink:href="#Pretendard-Bold-6f" x="152.734375"/>
-     <use xlink:href="#Pretendard-Bold-6e" x="211.71875"/>
-     <use xlink:href="#Pretendard-Bold-63" x="271.484375"/>
-     <use xlink:href="#Pretendard-Bold-69" x="327.832031"/>
-     <use xlink:href="#Pretendard-Bold-6c" x="353.515625"/>
-     <use xlink:href="#Pretendard-Bold-65" x="379.199219"/>
-     <use xlink:href="#Pretendard-Bold-64" x="436.621094"/>
-     <use xlink:href="#Pretendard-Bold-20" x="497.753906"/>
-     <use xlink:href="#Pretendard-Bold-39" x="520.800781"/>
-     <use xlink:href="#Pretendard-Bold-34" x="585.058594"/>
-     <use xlink:href="#Pretendard-Bold-2e" x="650.78125"/>
-     <use xlink:href="#Pretendard-Bold-37" x="679.003906"/>
-     <use xlink:href="#Pretendard-Bold-25" x="736.523438"/>
-     <use xlink:href="#Pretendard-Bold-20" x="832.519531"/>
-     <use xlink:href="#Pretendard-Bold-6f" x="855.566406"/>
-     <use xlink:href="#Pretendard-Bold-66" x="914.550781"/>
-     <use xlink:href="#Pretendard-Bold-20" x="951.269531"/>
-     <use xlink:href="#Pretendard-Bold-70" x="974.316406"/>
-     <use xlink:href="#Pretendard-Bold-72" x="1035.15625"/>
-     <use xlink:href="#Pretendard-Bold-65" x="1074.121094"/>
-     <use xlink:href="#Pretendard-Bold-64" x="1131.542969"/>
-     <use xlink:href="#Pretendard-Bold-69" x="1192.675781"/>
-     <use xlink:href="#Pretendard-Bold-63" x="1218.359375"/>
-     <use xlink:href="#Pretendard-Bold-74" x="1274.707031"/>
-     <use xlink:href="#Pretendard-Bold-69" x="1311.71875"/>
-     <use xlink:href="#Pretendard-Bold-6f" x="1337.402344"/>
-     <use xlink:href="#Pretendard-Bold-6e" x="1396.386719"/>
+   <g id="text_49">
+    <!-- S2 21.8% -->
+    <g style="fill: #cc79a7" transform="translate(470.875641 284.08927) scale(0.049 -0.049)">
+     <use xlink:href="#Pretendard-Bold-53"/>
+     <use xlink:href="#Pretendard-Bold-32" x="62.988281"/>
+     <use xlink:href="#Pretendard-Bold-20" x="124.023438"/>
+     <use xlink:href="#Pretendard-Bold-32" x="147.070312"/>
+     <use xlink:href="#Pretendard-Bold-31" x="208.105469"/>
+     <use xlink:href="#Pretendard-Bold-2e" x="254.980469"/>
+     <use xlink:href="#Pretendard-Bold-38" x="283.203125"/>
+     <use xlink:href="#Pretendard-Bold-25" x="347.558594"/>
+    </g>
+   </g>
+   <g id="text_50">
+    <!-- S3 54.4% -->
+    <g style="fill: #009e73" transform="translate(412.772746 291.812786) scale(0.049 -0.049)">
+     <use xlink:href="#Pretendard-Bold-53"/>
+     <use xlink:href="#Pretendard-Bold-33" x="62.988281"/>
+     <use xlink:href="#Pretendard-Bold-20" x="126.855469"/>
+     <use xlink:href="#Pretendard-Bold-35" x="149.902344"/>
+     <use xlink:href="#Pretendard-Bold-34" x="212.597656"/>
+     <use xlink:href="#Pretendard-Bold-2e" x="278.320312"/>
+     <use xlink:href="#Pretendard-Bold-34" x="306.542969"/>
+     <use xlink:href="#Pretendard-Bold-25" x="372.265625"/>
+    </g>
+   </g>
+   <g id="text_51">
+    <!-- S4 40.2% -->
+    <g style="fill: #e69f00" transform="translate(444.513494 291.812786) scale(0.049 -0.049)">
+     <use xlink:href="#Pretendard-Bold-53"/>
+     <use xlink:href="#Pretendard-Bold-34" x="62.988281"/>
+     <use xlink:href="#Pretendard-Bold-20" x="128.710938"/>
+     <use xlink:href="#Pretendard-Bold-34" x="151.757812"/>
+     <use xlink:href="#Pretendard-Bold-30" x="217.480469"/>
+     <use xlink:href="#Pretendard-Bold-2e" x="283.496094"/>
+     <use xlink:href="#Pretendard-Bold-32" x="311.71875"/>
+     <use xlink:href="#Pretendard-Bold-25" x="372.753906"/>
+    </g>
+   </g>
+   <g id="text_52">
+    <!-- no real 5.3% -->
+    <g style="fill: #777777" transform="translate(473.209351 291.812786) scale(0.049 -0.049)">
+     <use xlink:href="#Pretendard-Bold-6e"/>
+     <use xlink:href="#Pretendard-Bold-6f" x="59.765625"/>
+     <use xlink:href="#Pretendard-Bold-20" x="118.75"/>
+     <use xlink:href="#Pretendard-Bold-72" x="141.796875"/>
+     <use xlink:href="#Pretendard-Bold-65" x="180.761719"/>
+     <use xlink:href="#Pretendard-Bold-61" x="238.183594"/>
+     <use xlink:href="#Pretendard-Bold-6c" x="293.945312"/>
+     <use xlink:href="#Pretendard-Bold-20" x="319.628906"/>
+     <use xlink:href="#Pretendard-Bold-35" x="342.675781"/>
+     <use xlink:href="#Pretendard-Bold-2e" x="405.371094"/>
+     <use xlink:href="#Pretendard-Bold-33" x="433.59375"/>
+     <use xlink:href="#Pretendard-Bold-25" x="497.460938"/>
     </g>
    </g>
   </g>
-  <g id="text_29">
+  <g id="text_53">
    <!-- Affected -->
    <g transform="translate(12.85625 106.290156) rotate(-90) scale(0.08 -0.08)">
     <defs>
@@ -2211,6 +2204,77 @@ L 2881 1775
 L 1719 1775 
 z
 " transform="scale(0.015625)"/>
+     <path id="Pretendard-Bold-66" d="M 2169 3394 
+L 1494 3394 
+L 1494 3600 
+C 1494 3881 1650 4000 1950 4000 
+C 2000 4000 2100 3994 2231 3981 
+L 2231 4681 
+C 2069 4719 1894 4738 1681 4738 
+C 1000 4738 569 4363 569 3650 
+L 569 3394 
+L 88 3394 
+L 88 2700 
+L 569 2700 
+L 569 0 
+L 1494 0 
+L 1494 2700 
+L 2169 2700 
+L 2169 3394 
+z
+" transform="scale(0.015625)"/>
+     <path id="Pretendard-Bold-63" d="M 1888 -69 
+C 2788 -69 3350 463 3394 1231 
+L 2525 1231 
+C 2469 869 2225 669 1900 669 
+C 1450 669 1163 1044 1163 1700 
+C 1163 2344 1456 2719 1900 2719 
+C 2250 2719 2469 2488 2525 2150 
+L 3394 2150 
+C 3356 2925 2763 3438 1888 3438 
+C 856 3438 225 2725 225 1688 
+C 225 650 850 -69 1888 -69 
+z
+" transform="scale(0.015625)"/>
+     <path id="Pretendard-Bold-74" d="M 2150 3394 
+L 1513 3394 
+L 1513 4206 
+L 588 4206 
+L 588 3394 
+L 119 3394 
+L 119 2700 
+L 588 2700 
+L 588 913 
+C 581 256 1038 -44 1706 -44 
+C 1938 -44 2100 -31 2200 -13 
+L 2200 719 
+C 2088 706 1925 700 1831 700 
+C 1644 706 1513 775 1513 1044 
+L 1513 2700 
+L 2150 2700 
+L 2150 3394 
+z
+" transform="scale(0.015625)"/>
+     <path id="Pretendard-Bold-64" d="M 1613 -56 
+C 2163 -56 2444 263 2575 544 
+L 2619 544 
+L 2619 0 
+L 3531 0 
+L 3531 4525 
+L 2606 4525 
+L 2606 2825 
+L 2575 2825 
+C 2450 3100 2181 3438 1613 3438 
+C 863 3438 231 2856 231 1694 
+C 231 563 838 -56 1613 -56 
+z
+M 1900 681 
+C 1431 681 1181 1100 1181 1700 
+C 1181 2294 1431 2700 1900 2700 
+C 2363 2700 2625 2313 2625 1700 
+C 2625 1088 2363 681 1900 681 
+z
+" transform="scale(0.015625)"/>
     </defs>
     <use xlink:href="#Pretendard-Bold-41"/>
     <use xlink:href="#Pretendard-Bold-66" x="71.777344"/>
@@ -2222,7 +2286,7 @@ z
     <use xlink:href="#Pretendard-Bold-64" x="353.417969"/>
    </g>
   </g>
-  <g id="text_30">
+  <g id="text_54">
    <!-- Contralateral -->
    <g transform="translate(12.85625 252.444531) rotate(-90) scale(0.08 -0.08)">
     <defs>
@@ -2264,7 +2328,7 @@ L 120.433375 343.780531
 z
 " style="fill: #0072b2"/>
    </g>
-   <g id="text_31">
+   <g id="text_55">
     <!-- source 1: timely real application -->
     <g transform="translate(132.193375 347.700531) scale(0.056 -0.056)">
      <defs>
@@ -2441,7 +2505,7 @@ L 120.433375 351.781531
 z
 " style="fill: #cc79a7"/>
    </g>
-   <g id="text_32">
+   <g id="text_56">
     <!-- source 2: predicted application -->
     <g transform="translate(132.193375 355.701531) scale(0.056 -0.056)">
      <defs>
@@ -2507,7 +2571,7 @@ L 215.446125 343.780531
 z
 " style="fill: #009e73"/>
    </g>
-   <g id="text_33">
+   <g id="text_57">
     <!-- source 3: delayed real, within tolerance -->
     <g transform="translate(227.206125 347.700531) scale(0.056 -0.056)">
      <defs>
@@ -2604,7 +2668,7 @@ L 215.446125 351.786781
 z
 " style="fill: #e69f00"/>
    </g>
-   <g id="text_34">
+   <g id="text_58">
     <!-- source 4: delayed real, outside tolerance -->
     <g transform="translate(227.206125 355.706781) scale(0.056 -0.056)">
      <use xlink:href="#Pretendard-Regular-73"/>
@@ -2658,7 +2722,7 @@ L 334.069 343.780531
 z
 " style="fill: #dddddd"/>
    </g>
-   <g id="text_35">
+   <g id="text_59">
     <!-- no later real event -->
     <g transform="translate(345.829 347.700531) scale(0.056 -0.056)">
      <use xlink:href="#Pretendard-Regular-6e"/>
