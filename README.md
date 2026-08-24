@@ -53,3 +53,15 @@ Observer presses are count-only and are not contact-timing or event-level
 ground truth.
 
 Method and concept diagrams generally include editable SVG versions.
+
+## 2026-08-25 lab meeting
+
+| File | Slide | Evidence scope |
+|------|-------|----------------|
+| `20260824_rged_n4_operating_performance.png` | S9 / S10 | N=4 x 48 trials, ILC ON, affected side. Trial-level bounded G4 by participant x gait, the raw reference-stride denominator behind every cell, the speed/mode summary, and the G1-vs-G4 plane for all 48 trials. Both reference tiers shown; the strict tier is a nested subset of the one-site tier, so the two rows are a sensitivity contrast, not independent samples. Interface accounting only — no ILC OFF/ON contrast, no force-tracking outcome, not a clinical result. |
+| `20260824_rged_n4_source_reconciliation.png` | S5 / S6 | Same cohort. Share of affected-side application boundaries by event source 1-4 per participant / gait / speed stratum, plus per-trial real-first and reconciliation rates. Sources 3 and 4 live inside source 2 and are never added to the application denominator. Reference is a 4-channel plantar FSR path, not a gold standard; sensor-path delay is uncorrected, so no absolute IC-latency claim is made. |
+
+Participant labels `P1`-`P4` index this cohort only, in producer roster order.
+They are not the `S1`-`S4` of the earlier four-subject figures, which index a
+different roster. No initials, body mass, BWS setting, or age appears in any
+figure or file.
