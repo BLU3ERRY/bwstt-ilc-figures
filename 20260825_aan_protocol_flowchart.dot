@@ -30,41 +30,49 @@ digraph AANProtocol {
     arrowsize=0.75
   ];
 
-  A [label=<Baseline HOLD<BR/><B>기준 보행 10 strides</B>>];
-  B [label=<Availability<BR/><B>지금 비교 가능한가?</B>>];
-  C [label=<Stay 대조 vs 인접 BWS candidate<BR/><B>5 %BW 단위 · p = 0.5</B>>, color="#64748B", fillcolor="#F1F5F9"];
-  D [label=<Safety projection<BR/><B>허용 범위 · 변화율 제한</B>>, color="#64748B", fillcolor="#F1F5F9"];
-  E [label=<S-curve RAMP<BR/><B>4 s 동안 천천히 변경</B>>, color="#64748B", fillcolor="#F1F5F9"];
-  F [label=<DWELL<BR/><B>30 strides 반응 관찰</B>>];
+  A [label=<BASELINE HOLD<BR/><B>10-stride reference</B>>];
+  B [label=<AVAILABILITY<BR/><B>Comparable now?</B>>];
+  C [label=<STAY CONTROL vs ADJACENT BWS CANDIDATE<BR/><B>5 %BW step · p = 0.5</B>>, color="#64748B", fillcolor="#F1F5F9"];
+  D [label=<SAFETY PROJECTION<BR/><B>Range · rate limit</B>>, color="#64748B", fillcolor="#F1F5F9"];
+  E [label=<S-CURVE RAMP<BR/><B>Gradual 4-s transition</B>>, color="#64748B", fillcolor="#F1F5F9"];
+  F [label=<DWELL<BR/><B>Observe 30 strides</B>>];
+  MID [shape=point, width=0, height=0, label="", style=invis];
 
-  { rank=same; A; B; C; D; E; F; }
-  A -> B -> C -> D -> E -> F;
+  { rank=same; A; B; C; MID; D; E; F; }
+  A -> B -> C;
+  C -> MID [arrowhead=none];
+  MID -> D;
+  D -> E -> F;
+
+  CENTER [shape=point, width=0, height=0, label="", style=invis];
+  MID -> CENTER [style=invis, weight=30];
 
   G [
     shape=diamond,
     style="filled",
-    label=<보행 유지<BR/><B>대체 없이 안전한가?</B>>,
+    label=<GAIT MAINTAINED?<BR/><B>Safe and without substitution?</B>>,
     color="#C58A14",
     fillcolor="#FFF4D6",
     fontcolor="#4A3510",
     penwidth=2.2,
     margin="0.12,0.08"
   ];
-  F -> G;
+  CENTER -> G [style=invis, weight=30];
+  F -> G [constraint=false];
 
-  H [label=<ACCEPT<BR/><B>다음 probe</B>>, color="#2E8B57", fillcolor="#E8F6EE", fontcolor="#173F2B", penwidth=2.1];
-  I [label=<HOLD<BR/><B>현재 BWS 유지</B>>, color="#C47A19", fillcolor="#FFF0DD", fontcolor="#4B3314", penwidth=2.1];
-  J [label=<ROLLBACK / RECOVER UP<BR/><B>BWS 증가</B>>, color="#C94A5B", fillcolor="#FDE9EC", fontcolor="#5A1F28", penwidth=2.1];
+  H [label=<ACCEPT<BR/><B>Next probe</B>>, color="#2E8B57", fillcolor="#E8F6EE", fontcolor="#173F2B", penwidth=2.1];
+  I [label=<HOLD<BR/><B>Keep current BWS</B>>, color="#C47A19", fillcolor="#FFF0DD", fontcolor="#4B3314", penwidth=2.1];
+  J [label=<ROLLBACK / RECOVER UP<BR/><B>Increase BWS</B>>, color="#C94A5B", fillcolor="#FDE9EC", fontcolor="#5A1F28", penwidth=2.1];
 
   { rank=same; H; I; J; }
-  G -> H [label="유지 가능", color="#2E8B57"];
-  G -> I [label="경계 · 불확실", color="#C47A19"];
-  G -> J [label="악화 · 위반", color="#C94A5B"];
+  G -> H [label="Maintained", color="#2E8B57"];
+  G -> I [label="Borderline · uncertain", color="#C47A19"];
+  G -> J [label="Deterioration · violation", color="#C94A5B"];
 
-  K [label=<WASHOUT<BR/><B>10 strides 다음 probe 전 안정화</B>>, color="#735DA8", fillcolor="#F0ECFA", fontcolor="#30244A", penwidth=2.0];
+  K [label=<WASHOUT<BR/><B>10-stride stabilization before next probe</B>>, color="#735DA8", fillcolor="#F0ECFA", fontcolor="#30244A", penwidth=2.0];
   H -> K;
   I -> K;
   J -> K;
 
-  K -> A [label="반복", style=dashed, color="#735DA8", fontcolor="#5B468A", constraint=false, minlen=3];
+  K -> A [label="Repeat", style=dashed, color="#735DA8", fontcolor="#5B468A", constraint=false, minlen=3];
 }
