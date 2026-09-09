@@ -65,3 +65,9 @@ Participant labels `P1`-`P4` index this cohort only, in producer roster order.
 They are not the `S1`-`S4` of the earlier four-subject figures, which index a
 different roster. No initials, body mass, BWS setting, or age appears in any
 figure or file.
+
+## 2026-09-08 lab meeting follow-up (AAN protocol rework)
+
+| File | Slide | Content |
+|------|-------|---------|
+| `20260909_aan_episode_algorithm_flowchart.png` | S12 replacement | AAN episode algorithm flowchart after the 2026-09-09 rework: per-stride margin judgment, known-probability arm draw, ramp mask, fast window, judgment-before-stationarity extension, slow guard, revert-only washout, edge fallback to therapist. No data; state machine only. `_transparent.png` and editable `.svg` siblings. |
