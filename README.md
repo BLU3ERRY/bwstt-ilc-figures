@@ -71,3 +71,28 @@ figure or file.
 | File | Slide | Content |
 |------|-------|---------|
 | `20260909_aan_episode_algorithm_flowchart.png` | S12 replacement | AAN episode algorithm flowchart after the 2026-09-09 rework: per-stride margin judgment, known-probability arm draw, ramp mask, fast window, judgment-before-stationarity extension, slow guard, revert-only washout, edge fallback to therapist. No data; state machine only. `_transparent.png` and editable `.svg` siblings. |
+
+## 2026-09-XX lab meeting — current AAN design and simulation
+
+Prepared September 15, 2026. Current production core `22ababa1`, LLART
+`2662b7d` (`v2.3.5`). These are design diagrams and engineering simulation
+results, not patient efficacy measurements. Full provenance and file hashes:
+[`202609XX_aan_figures.json`](202609XX_aan_figures.json).
+
+| File | Slide | Evidence scope |
+|------|-------|----------------|
+| `202609XX_s02_aan_system_flow.png` | S2 | Observations, AAN, force control and delivered intervention; conceptual diagram. SVG sibling. |
+| `202609XX_s16_aan_episode_flow.png` | S16 | Baseline, approved change, ramp, fast judgment and follow-up; current working timing. SVG sibling. |
+| `202609XX_s24_aan_simulator_flow.png` | S24 | Production decision core versus simulated person/device responses. SVG sibling. |
+| `202609XX_s30_aan_speed_measurement.png` | S30 | Proposed comparison of C7 readback and independent belt-speed measurement; measurement not yet performed. SVG sibling. |
+| `202609XX_s26_aan_workspace.png` | S26 | Actual current simulator screenshot at an allowed-range edge; not the initial reference-collection state. |
+| `202609XX_s27_aan_support_response.png` | S27 | Seed 7, support-sensitive response: fixed support versus AAN over 420 s. |
+| `202609XX_s29_aan_compensation.png` | S29 | Seed 7, competing compensation: AAN increased task-violation time. |
+| `202609XX_s29_aan_persistent_deficit.png` | S29 | Seed 7, deliberately nonresponsive deficit: increased support did not resolve the modeled deficit. |
+| `202609XX_s29_aan_current_results.png` | S28/S29 | Four selected conditions, three seeds per arm; dots and min–max ranges, not confidence intervals. SVG sibling. |
+| `202609XX_aan_all_14_conditions.png` | Appendix | All 14 base conditions, same three-seed comparison. SVG sibling. |
+
+Violation fractions use valid margin-observation time, not the full 420 s.
+Missing observations are not counted as successful walking. Speed scale is
+an unmeasured engineering assumption; other scales are calibration candidates.
+No production parameter selection or universal superiority claim is made.

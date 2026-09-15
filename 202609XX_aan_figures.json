@@ -1,0 +1,26 @@
+{
+  "description": "September 2026 AAN lab-meeting figures; exact snapshot of current engineering simulation. Not clinical efficacy data.",
+  "created": "2026-09-15",
+  "coreCommit": "22ababa16bafe6bddf29349c89b15c29afc9c076",
+  "llartCommit": "2662b7d4ba7dbb6fa0276428c2ea87b8d199ee16",
+  "comparisonScope": "14 cases x 3 seeds x 2 arms = 84 base runs, 420 s each; plots show the 3-seed range, not confidence intervals.",
+  "screenshots": "Current simulator; geometric reference movement; seed 7; support response, compensation and persistent deficit comparisons matched archived results.",
+  "files": {
+    "202609XX_s02_aan_system_flow.png": "89af288e930f44c12652721e87dc22deb532c61f978236d0474f1c1402c9a11e",
+    "202609XX_s02_aan_system_flow.svg": "bf08a66d7e5745b7b1d382ebdfeae01739f965910bc3aa6fcd54b43bb488f90e",
+    "202609XX_s16_aan_episode_flow.png": "c13df5edf546c8d48b73c149b4987e185c46223c267e628187fd696a1026d6e2",
+    "202609XX_s16_aan_episode_flow.svg": "7f4c91c15f1cd156df8310059abca2b65502b175eaa9028606f0a9a671a6673c",
+    "202609XX_s24_aan_simulator_flow.png": "19767ea23d1ade75fc1003c56ea48845ca181845626c0c8396becb65dd3844a1",
+    "202609XX_s24_aan_simulator_flow.svg": "6cb8f8bf985013e334bb9f05a38b36ed4681bfa258746923e7059db88744b5ad",
+    "202609XX_s30_aan_speed_measurement.png": "467b86221a94ff01724c76415f4f5413bf73707c6bfc2a169a001e8037813da1",
+    "202609XX_s30_aan_speed_measurement.svg": "aa159165fc7db48ca8278fe853be8ab6b11fb13ca338d6cbcf42ec4422c4ace0",
+    "202609XX_s29_aan_current_results.png": "93b4137e5f50567df9732b61ebd1de5b656bb9b3aca263d45ad9e7faff58c142",
+    "202609XX_s29_aan_current_results.svg": "27ddbf731cdc054eda357fce6169b45a7ddf69e7f5eb6b3b150fa5f767cff8b4",
+    "202609XX_aan_all_14_conditions.png": "b22e9ccd4241d5f7d1d213e7688ac04495902eb7ec5ab71c6692546613177227",
+    "202609XX_aan_all_14_conditions.svg": "a2d573fb7d6b7c31ad4b9ead3274e1ba0618e56ae1329dfd0f46b59d75cbf920",
+    "202609XX_s26_aan_workspace.png": "4df9e44f0b349efb65a7fd80eb5bd5115ec1343db4967804c918d25ba17ee0d0",
+    "202609XX_s27_aan_support_response.png": "ac53056938c8ed2d53630d4989a6805b4a872657c1aef3b4e09d1689a8ce98b6",
+    "202609XX_s29_aan_compensation.png": "593449b40e9357d3468609388892b4a7380308b251d4cb96e958e5a34c990cff",
+    "202609XX_s29_aan_persistent_deficit.png": "c8f469d7e702095a93dadfa0e881d75d13d8545452b4a1ccbea9bd8db10ebfcd"
+  }
+}
