@@ -1,5 +1,7 @@
 ## AAN selected assessment — 2026-09-16
 
+Updated to LLART v2.4.1: complete reference/evaluation intervals start after warmup/settling. All 342 runs and figures were regenerated. Earlier v2.4.0 images remain available at commit 145658d.
+
 Four selected metrics: position, personal stride period, log step-time asymmetry, circular trunk posture. Independent experimental C++/WASM module; production LLC unchanged. 150 primary + 192 sensitivity runs. Figures show simulated outcomes, not clinical efficacy or measured sensor validation. Fixed 30%BW comparator, fixed 0.55m/s, same three time-noise seeds; common evaluation 120–420 s. Legacy figures remain pinned to their original commits.
 
 - `20260916_aan_selected_results`: per-run dots and three-seed means for delivered support and reference violation time.
