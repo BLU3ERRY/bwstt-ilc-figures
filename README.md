@@ -1,3 +1,14 @@
+## AAN selected assessment — 2026-09-16
+
+Four selected metrics: position, personal stride period, log step-time asymmetry, circular trunk posture. Independent experimental C++/WASM module; production LLC unchanged. 150 primary + 192 sensitivity runs. Figures show simulated outcomes, not clinical efficacy or measured sensor validation. Fixed 30%BW comparator, fixed 0.55m/s, same three time-noise seeds; common evaluation 120–420 s. Legacy figures remain pinned to their original commits.
+
+- `20260916_aan_selected_results`: per-run dots and three-seed means for delivered support and reference violation time.
+- `20260916_aan_selected_compensation`: seed-7 response with delayed / residual adverse effects.
+- `20260916_aan_selected_dropout`: event outage, preserved independent position, and explicit unknown gait measurement.
+- `20260916_aan_selected_demo`: live offline simulator after reduction and acceptance.
+
+Sources: LLART `llc/aan_demo/assessment/VALIDATION.md`, `results/summary.json`, `report.py`; full scenario and normalization assumptions recorded there. No patient photos or actual participant recordings.
+
 # BWSTT Control — Report and Lab-Meeting Figures
 
 Figures for the cable-driven BWSTT controller, including phase-indexed ILC and R-GED.
