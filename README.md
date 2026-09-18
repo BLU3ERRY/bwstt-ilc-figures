@@ -1,3 +1,14 @@
+## AAN selected assessment — 2026-09-18 (representative belt speed 0.35 m/s)
+
+Updated to LLART v2.4.6 (2026-09-18): the fixed belt speed is 0.35 m/s, the representative 350 mm/s declared by the protocol. The 2026-09-16 images below used 0.55 m/s, an undocumented carry-over of the old demo band, and remain pinned at commit d48cba1. Same 342-run design (150 primary + 192 sensitivity), same seeds, common evaluation 120–420 s. The missing-evidence clock now starts only after the 12 s settle window; before this change the 3 s ramp tracking gap started it, so the rule silently depended on stride time.
+
+- `20260918_aan_selected_results`: per-run dots and three-seed means for delivered support and reference violation time.
+- `20260918_aan_selected_compensation`: seed-7 trunk-compensation response with delayed / residual adverse effects.
+- `20260918_aan_selected_dropout`: event outage, preserved independent position, and explicit unknown gait measurement.
+- `20260918_aan_selected_demo`: live offline simulator (UI 2026-09-18) after reduction and acceptance.
+
+Sources: LLART `llc/aan_demo/assessment/VALIDATION.md`, `results/summary.json`, `report.py`. Simulated outcomes only; no clinical efficacy or sensor validation. No patient photos or actual participant recordings.
+
 ## AAN selected assessment — 2026-09-16
 
 Updated to LLART v2.4.1: complete reference/evaluation intervals start after warmup/settling. All 342 runs and figures were regenerated. Earlier v2.4.0 images remain available at commit 145658d.
